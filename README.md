@@ -1,39 +1,36 @@
-# ENCORE — Crossed Paths
+# ENCORE: Crossed Paths
 
-**ENCounter-based cOnnection REcommendation** · *Westeros Edition*
+A social network that suggests connections from shared places, shared scenes and name mentions. Neo4j back end, Game of Thrones characters as users.
 
-An ambient social network that turns real-world encounters (shared scenes, places, and name mentions) into connection suggestions. Built on a Neo4j property graph, with Game of Thrones characters as the demo users.
+## Requirements
 
-## Data pipeline
+- [uv](https://docs.astral.sh/uv/) (installs Python ≥ 3.10 and all packages)
+- Docker Desktop (for the local Neo4j database)
+- git
+
+## Run it
 
 ```bash
-uv sync                                       # install deps (Python ≥ 3.10)
-cp .env.example .env                          # then set NEO4J_PASSWORD
-./scripts/fetch_data.sh                       # clone the raw dataset into data/raw/
-uv run python pipeline/got_pipeline.py        # JSON → data/csv/*.csv
-uv run pytest                                 # sanity checks on the CSVs
-docker compose up -d                          # local Neo4j 5 (Browser: http://localhost:7474)
-uv run python pipeline/load_db.py --reset     # CSVs → Neo4j (safe to rerun)
+uv sync                                      # 1. install packages
+cp .env.example .env                         # 2. set NEO4J_PASSWORD in .env
+./scripts/fetch_data.sh                      # 3. download the raw dataset
+uv run python pipeline/got_pipeline.py       # 4. build the CSVs in data/csv/
+docker compose up -d                         # 5. start Neo4j
+uv run python pipeline/load_db.py --reset    # 6. load the CSVs into Neo4j
+uv run pytest                                # 7. check everything (26 tests)
 ```
 
-`--reset` removes only seeded data (character users and locations). Users who registered through the app are kept.
+Steps 3–4 are optional: the CSVs are already committed, so you can go straight from step 2 to step 5.
 
-### Outputs (`data/csv/`, committed)
+- **Neo4j Browser:** http://localhost:7474 (log in with the user and password from `.env`)
+- **Demo login:** any character, e.g. `arya_stark`, with the `DEMO_PASSWORD` from `.env`
+- **Rebuild the data:** rerun step 6. Users who signed up through the app are kept.
+- **Stop Neo4j:** `docker compose down` (add `-v` to delete its data)
 
-| File | Graph element |
-|---|---|
-| `users.csv` | `(:User)`: 157 characters with ≥ 10 scenes |
-| `locations.csv` | `(:Location)`: 26 locations |
-| `co_present.csv` | `CO_PRESENT {count, firstSeason}`: shared scenes, stored once |
-| `was_at.csv` | `WAS_AT {count, firstSeason}`: user → location |
-| `mentioned.csv` | `MENTIONED {count}`: speaker → character named in their lines |
-| `family.csv` | `FAMILY {type}`: `CHILD_OF` / `SIBLING_OF` / `MARRIED_TO` |
-| `follows_seed.csv` | `FOLLOWS {sinceSeason}`: seeded from strong co-presence ties |
+## Using AuraDB instead of Docker
 
-Pipeline settings (`MIN_SCENES`, `STRONG_TIE`, `WEAK_TIE`, `COMMON_WORD_LIMIT`, `TITLES`, `NICKNAMES`) are at the top of `pipeline/got_pipeline.py`.
-
-Every character account logs in with `DEMO_PASSWORD` from `.env`.
+Put your AuraDB URI (`neo4j+s://…`), user and password in `.env`, skip step 5, and run step 6.
 
 ## Dataset
 
-Jeffrey Lancaster, *game-of-thrones*: https://github.com/jeffreylancaster/game-of-thrones (used with citation, as the author requests). Character images from the dataset are not used.
+Jeffrey Lancaster, *game-of-thrones*: https://github.com/jeffreylancaster/game-of-thrones
