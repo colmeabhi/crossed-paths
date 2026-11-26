@@ -1,158 +1,578 @@
-username,name,house,scene_count,top_location,bio
-alliser_thorne,Alliser Thorne,,51,The Wall,51 scenes · most often at The Wall
-alys_karstark,Alys Karstark,,13,The North,13 scenes · most often at The North
-anguy,Anguy,,13,The Riverlands,13 scenes · most often at The Riverlands
-areo_hotah,Areo Hotah,,15,Dorne,15 scenes · most often at Dorne
-arya_stark,Arya Stark,Stark,360,The Riverlands,House Stark · 360 scenes · most often at The Riverlands
-baby_sam,Baby Sam,,48,The Wall,48 scenes · most often at The Wall
-barristan_selmy,Barristan Selmy,,77,Meereen,77 scenes · most often at Meereen
-benjen_stark,Benjen Stark,Stark,14,North of the Wall,House Stark · 14 scenes · most often at North of the Wall
-beric_dondarrion,Beric Dondarrion,,85,North of the Wall,85 scenes · most often at North of the Wall
-bianca,Bianca,,10,Braavos,10 scenes · most often at Braavos
-black_walder_rivers,Black Walder Rivers,Frey,10,The Riverlands,House Frey · 10 scenes · most often at The Riverlands
-bobono,Bobono,,12,Braavos,12 scenes · most often at Braavos
-bowen_marsh,Bowen Marsh,,12,The Wall,12 scenes · most often at The Wall
-bran_stark,Bran Stark,Stark,248,The North,House Stark · 248 scenes · most often at The North
-brienne_of_tarth,Brienne of Tarth,,185,The North,185 scenes · most often at The North
-bronn,Bronn,,132,The Crownlands,132 scenes · most often at The Crownlands
-brynden_tully,Brynden Tully,Tully,22,The Riverlands,House Tully · 22 scenes · most often at The Riverlands
-catelyn_stark,Catelyn Stark,Stark,93,The Riverlands,House Stark · 93 scenes · most often at The Riverlands
-cersei_lannister,Cersei Lannister,Lannister,330,The Crownlands,House Lannister · 330 scenes · most often at The Crownlands
-craster,Craster,,11,North of the Wall,11 scenes · most often at North of the Wall
-daario_naharis,Daario Naharis,,77,Meereen,77 scenes · most often at Meereen
-daenerys_targaryen,Daenerys Targaryen,Targaryen,509,The Crownlands,House Targaryen · 509 scenes · most often at The Crownlands
-dagmer_cleftjaw,Dagmer Cleftjaw,,16,The North,16 scenes · most often at The North
-davos_seaworth,Davos Seaworth,,256,The Crownlands,256 scenes · most often at The Crownlands
-dickon_tarly,Dickon Tarly,,13,The Crownlands,13 scenes · most often at The Crownlands
-dongo_the_giant,Dongo the Giant,,12,North of the Wall,12 scenes · most often at North of the Wall
-dontos_hollard,Dontos Hollard,,12,The Crownlands,12 scenes · most often at The Crownlands
-doran_martell,Doran Martell,Martell,14,Dorne,House Martell · 14 scenes · most often at Dorne
-doreah,Doreah,,20,Vaes Dothrak,20 scenes · most often at Vaes Dothrak
-drogon,Drogon,Targaryen,194,The Crownlands,House Targaryen · 194 scenes · most often at The Crownlands
-eddard_stark,Eddard Stark,Stark,72,The Crownlands,House Stark · 72 scenes · most often at The Crownlands
-eddison_tollett,Eddison Tollett,,120,The Wall,120 scenes · most often at The Wall
-edmure_tully,Edmure Tully,Tully,30,The Riverlands,House Tully · 30 scenes · most often at The Riverlands
-ellaria_sand,Ellaria Sand,Martell,47,The Crownlands,House Martell · 47 scenes · most often at The Crownlands
-euron_greyjoy,Euron Greyjoy,Greyjoy,55,The Crownlands,House Greyjoy · 55 scenes · most often at The Crownlands
-gendry,Gendry,Baratheon,112,The Riverlands,House Baratheon · 112 scenes · most often at The Riverlands
-ghost,Ghost,Stark,51,The Wall,House Stark · 51 scenes · most often at The Wall
-gilly,Gilly,,81,The Wall,81 scenes · most often at The Wall
-grand_maester_pycelle,Grand Maester Pycelle,,72,The Crownlands,72 scenes · most often at The Crownlands
-gregor_clegane,Gregor Clegane,,91,The Crownlands,91 scenes · most often at The Crownlands
-grenn,Grenn,,65,The Wall,65 scenes · most often at The Wall
-grey_wind,Grey Wind,Stark,10,The Riverlands,House Stark · 10 scenes · most often at The Riverlands
-grey_worm,Grey Worm,,176,The Crownlands,176 scenes · most often at The Crownlands
-hallyne,Hallyne,,10,The Crownlands,10 scenes · most often at The Crownlands
-high_septon,High Septon,,22,The Crownlands,22 scenes · most often at The Crownlands
-high_sparrow,High Sparrow,,37,The Crownlands,37 scenes · most often at The Crownlands
-hizdahr_zo_loraq,Hizdahr zo Loraq,,29,Meereen,29 scenes · most often at Meereen
-hodor,Hodor,,83,North of the Wall,83 scenes · most often at North of the Wall
-hot_pie,Hot Pie,,26,The Riverlands,26 scenes · most often at The Riverlands
-ilyn_payne,Ilyn Payne,,12,The Crownlands,12 scenes · most often at The Crownlands
-irri,Irri,,19,The Dothraki Sea,19 scenes · most often at The Dothraki Sea
-izembaro,Izembaro,,11,Braavos,11 scenes · most often at Braavos
-jaime_lannister,Jaime Lannister,Lannister,330,The Crownlands,House Lannister · 330 scenes · most often at The Crownlands
-janos_slynt,Janos Slynt,,36,The Wall,36 scenes · most often at The Wall
-jaqen_h_ghar,Jaqen H'ghar,,37,Braavos,37 scenes · most often at Braavos
-jeor_mormont,Jeor Mormont,Mormont,30,North of the Wall,House Mormont · 30 scenes · most often at North of the Wall
-joffrey_baratheon,Joffrey Baratheon,Baratheon,119,The Crownlands,House Baratheon · 119 scenes · most often at The Crownlands
-jojen_reed,Jojen Reed,,44,North of the Wall,44 scenes · most often at North of the Wall
-jon_snow,Jon Snow,Stark,632,The North,House Stark · 632 scenes · most often at The North
-jorah_mormont,Jorah Mormont,Mormont,257,The North,House Mormont · 257 scenes · most often at The North
-jory_cassel,Jory Cassel,,18,The Crownlands,18 scenes · most often at The Crownlands
-joyeuse_erenford,Joyeuse Erenford,,10,The Riverlands,10 scenes · most often at The Riverlands
-karl_tanner,Karl Tanner,,14,North of the Wall,14 scenes · most often at North of the Wall
-kevan_lannister,Kevan Lannister,Lannister,24,The Crownlands,House Lannister · 24 scenes · most often at The Crownlands
-khal_drogo,Khal Drogo,,22,The Dothraki Sea,22 scenes · most often at The Dothraki Sea
-kovarro,Kovarro,,16,Qarth,16 scenes · most often at Qarth
-lady_crane,Lady Crane,,15,Braavos,15 scenes · most often at Braavos
-lancel_lannister,Lancel Lannister,Lannister,50,The Crownlands,House Lannister · 50 scenes · most often at The Crownlands
-leaf,Leaf,,21,North of the Wall,21 scenes · most often at North of the Wall
-locke,Locke,,34,The Riverlands,34 scenes · most often at The Riverlands
-loras_tyrell,Loras Tyrell,Tyrell,55,The Crownlands,House Tyrell · 55 scenes · most often at The Crownlands
-lord_varys,Lord Varys,,194,The Crownlands,194 scenes · most often at The Crownlands
-lothar_frey,Lothar Frey,Frey,15,The Riverlands,House Frey · 15 scenes · most often at The Riverlands
-lyanna_mormont,Lyanna Mormont,Mormont,36,The North,House Mormont · 36 scenes · most often at The North
-lysa_arryn,Lysa Arryn,Arryn,10,The Vale,House Arryn · 10 scenes · most often at The Vale
-mace_tyrell,Mace Tyrell,Tyrell,63,The Crownlands,House Tyrell · 63 scenes · most often at The Crownlands
-maester_aemon,Maester Aemon,Targaryen,18,The Wall,House Targaryen · 18 scenes · most often at The Wall
-maester_luwin,Maester Luwin,,29,The North,29 scenes · most often at The North
-maester_wolkan,Maester Wolkan,,15,The North,15 scenes · most often at The North
-mag_the_mighty,Mag the Mighty,,15,North of the Wall,15 scenes · most often at North of the Wall
-mance_rayder,Mance Rayder,,17,North of the Wall,17 scenes · most often at North of the Wall
-margaery_tyrell,Margaery Tyrell,Tyrell,125,The Crownlands,House Tyrell · 125 scenes · most often at The Crownlands
-matthos_seaworth,Matthos Seaworth,,12,The Crownlands,12 scenes · most often at The Crownlands
-meera_reed,Meera Reed,,71,North of the Wall,71 scenes · most often at North of the Wall
-melisandre,Melisandre,,97,The North,97 scenes · most often at The North
-meryn_trant,Meryn Trant,,42,The Crownlands,42 scenes · most often at The Crownlands
-missandei,Missandei,,184,Meereen,184 scenes · most often at Meereen
-myranda,Myranda,,15,The North,15 scenes · most often at The North
-myrcella_baratheon,Myrcella Baratheon,Baratheon,25,Dorne,House Baratheon · 25 scenes · most often at Dorne
-nymeria_sand,Nymeria Sand,Martell,21,Dorne,House Martell · 21 scenes · most often at Dorne
-obara_sand,Obara Sand,Martell,20,Dorne,House Martell · 20 scenes · most often at Dorne
-oberyn_martell,Oberyn Martell,Martell,38,The Crownlands,House Martell · 38 scenes · most often at The Crownlands
-olenna_tyrell,Olenna Tyrell,Tyrell,66,The Crownlands,House Tyrell · 66 scenes · most often at The Crownlands
-olly,Olly,,45,The Wall,45 scenes · most often at The Wall
-olyvar,Olyvar,,18,The Crownlands,18 scenes · most often at The Crownlands
-orell,Orell,,18,The North,18 scenes · most often at The North
-osha,Osha,,42,The North,42 scenes · most often at The North
-othell_yarwyck,Othell Yarwyck,,21,The Wall,21 scenes · most often at The Wall
-petyr_baelish,Petyr Baelish,,121,The Crownlands,121 scenes · most often at The Crownlands
-podrick_payne,Podrick Payne,,145,The Crownlands,145 scenes · most often at The Crownlands
-pypar,Pypar,,27,The Wall,27 scenes · most often at The Wall
-qhono,Qhono,,48,The Crownlands,48 scenes · most often at The Crownlands
-qyburn,Qyburn,,86,The Crownlands,86 scenes · most often at The Crownlands
-rakharo,Rakharo,,15,The Red Waste,15 scenes · most often at The Red Waste
-ramsay_snow,Ramsay Snow,Bolton,81,The North,House Bolton · 81 scenes · most often at The North
-randyll_tarly,Randyll Tarly,,12,The Crownlands,12 scenes · most often at The Crownlands
-rast,Rast,,32,North of the Wall,32 scenes · most often at North of the Wall
-renly_baratheon,Renly Baratheon,Baratheon,21,The Crownlands,House Baratheon · 21 scenes · most often at The Crownlands
-rhaegal,Rhaegal,Targaryen,84,The North,House Targaryen · 84 scenes · most often at The North
-rickard_karstark,Rickard Karstark,,10,The Riverlands,10 scenes · most often at The Riverlands
-rickon_stark,Rickon Stark,Stark,34,The North,House Stark · 34 scenes · most often at The North
-robb_stark,Robb Stark,Stark,88,The Riverlands,House Stark · 88 scenes · most often at The Riverlands
-robert_baratheon,Robert Baratheon,Baratheon,18,The Crownlands,House Baratheon · 18 scenes · most often at The Crownlands
-robett_glover,Robett Glover,,11,The North,11 scenes · most often at The North
-robin_arryn,Robin Arryn,,17,The Vale,17 scenes · most often at The Vale
-rodrik_cassel,Rodrik Cassel,,27,The North,27 scenes · most often at The North
-roose_bolton,Roose Bolton,Bolton,46,The Riverlands,House Bolton · 46 scenes · most often at The Riverlands
-ros,Ros,,16,The Crownlands,16 scenes · most often at The Crownlands
-samwell_tarly,Samwell Tarly,,225,The Wall,225 scenes · most often at The Wall
-sandor_clegane,Sandor Clegane,,216,The Crownlands,216 scenes · most often at The Crownlands
-sansa_stark,Sansa Stark,Stark,349,The North,House Stark · 349 scenes · most often at The North
-selyse_baratheon,Selyse Baratheon,Baratheon,20,The Wall,House Baratheon · 20 scenes · most often at The Wall
-septa_unella,Septa Unella,,22,The Crownlands,22 scenes · most often at The Crownlands
-shae,Shae,,59,The Crownlands,59 scenes · most often at The Crownlands
-shaggydog,Shaggydog,Stark,12,The North,House Stark · 12 scenes · most often at The North
-shireen_baratheon,Shireen Baratheon,Baratheon,18,The Wall,House Baratheon · 18 scenes · most often at The Wall
-smalljon_umber,Smalljon Umber,,14,The North,14 scenes · most often at The North
-stannis_baratheon,Stannis Baratheon,Baratheon,90,The Crownlands,House Baratheon · 90 scenes · most often at The Crownlands
-styr,Styr,,15,The Wall,15 scenes · most often at The Wall
-summer,Summer,Stark,41,The North,House Stark · 41 scenes · most often at The North
-talisa_maegyr,Talisa Maegyr,,41,The Riverlands,41 scenes · most often at The Riverlands
-the_night_king,The Night King,,62,North of the Wall,62 scenes · most often at North of the Wall
-the_waif,The Waif,,22,Braavos,22 scenes · most often at Braavos
-thenn_warg,Thenn Warg,,10,The Wall,10 scenes · most often at The Wall
-theon_greyjoy,Theon Greyjoy,Greyjoy,179,The North,House Greyjoy · 179 scenes · most often at The North
-thoros_of_myr,Thoros of Myr,,47,The Riverlands,47 scenes · most often at The Riverlands
-three_eyed_raven,Three-Eyed Raven,,42,North of the Wall,42 scenes · most often at North of the Wall
-tommen_baratheon,Tommen Baratheon,Baratheon,89,The Crownlands,House Baratheon · 89 scenes · most often at The Crownlands
-tormund_giantsbane,Tormund Giantsbane,,215,The North,215 scenes · most often at The North
-trystane_martell,Trystane Martell,Martell,12,Dorne,House Martell · 12 scenes · most often at Dorne
-tyene_sand,Tyene Sand,Martell,27,Dorne,House Martell · 27 scenes · most often at Dorne
-tyrion_lannister,Tyrion Lannister,Lannister,544,The Crownlands,House Lannister · 544 scenes · most often at The Crownlands
-tywin_lannister,Tywin Lannister,Lannister,91,The Crownlands,House Lannister · 91 scenes · most often at The Crownlands
-viserion,Viserion,Targaryen,71,The North,House Targaryen · 71 scenes · most often at The North
-viserys_targaryen,Viserys Targaryen,Targaryen,12,Vaes Dothrak,House Targaryen · 12 scenes · most often at Vaes Dothrak
-walder_frey,Walder Frey,Frey,25,The Riverlands,House Frey · 25 scenes · most often at The Riverlands
-white_walker,White Walker,,46,North of the Wall,46 scenes · most often at North of the Wall
-will,Will,,12,North of the Wall,12 scenes · most often at North of the Wall
-wun_wun,Wun Wun,,23,The North,23 scenes · most often at The North
-wyllis,Wyllis,,12,The North,12 scenes · most often at The North
-xaro_xhoan_daxos,Xaro Xhoan Daxos,,12,Qarth,12 scenes · most often at Qarth
-yara_greyjoy,Yara Greyjoy,Greyjoy,54,The Iron Islands,House Greyjoy · 54 scenes · most often at The Iron Islands
-yezzan_zo_qaggaz,Yezzan zo Qaggaz,,13,Meereen,13 scenes · most often at Meereen
-ygritte,Ygritte,,68,North of the Wall,68 scenes · most often at North of the Wall
-yohn_royce,Yohn Royce,,41,The North,41 scenes · most often at The North
-yoren,Yoren,,16,The Crownlands,16 scenes · most often at The Crownlands
-young_ned_stark,Young Ned Stark,Stark,14,Dorne,House Stark · 14 scenes · most often at Dorne
+username,name,email,house,scene_count,top_location,bio
+addam_marbrand,Addam Marbrand,addam_marbrand@westeros.example,,1,The Riverlands,1 scene · most often at The Riverlands
+adele_smyth_kennedy,Adele Smyth-Kennedy,adele_smyth_kennedy@westeros.example,,1,The North,1 scene · most often at The North
+adrack_humble,Adrack Humble,adrack_humble@westeros.example,,3,The North,3 scenes · most often at The North
+aeron_greyjoy,Aeron Greyjoy,aeron_greyjoy@westeros.example,Greyjoy,9,The Iron Islands,House Greyjoy · 9 scenes · most often at The Iron Islands
+aerys_targaryen,Aerys Targaryen,aerys_targaryen@westeros.example,,3,North of the Wall,3 scenes · most often at North of the Wall
+aggo,Aggo,aggo@westeros.example,,1,The Red Waste,1 scene · most often at The Red Waste
+akho,Akho,akho@westeros.example,,7,Vaes Dothrak,7 scenes · most often at Vaes Dothrak
+alliser_thorne,Alliser Thorne,alliser_thorne@westeros.example,,51,The Wall,51 scenes · most often at The Wall
+alton_lannister,Alton Lannister,alton_lannister@westeros.example,Lannister,5,The Westerlands,House Lannister · 5 scenes · most often at The Westerlands
+alys_karstark,Alys Karstark,alys_karstark@westeros.example,,13,The North,13 scenes · most often at The North
+amory_lorch,Amory Lorch,amory_lorch@westeros.example,,6,The Riverlands,6 scenes · most often at The Riverlands
+anara,Anara,anara@westeros.example,,1,Braavos,1 scene · most often at Braavos
+anguy,Anguy,anguy@westeros.example,,13,The Riverlands,13 scenes · most often at The Riverlands
+anya_waynwood,Anya Waynwood,anya_waynwood@westeros.example,,3,The Vale,3 scenes · most often at The Vale
+archmaester_ebrose,Archmaester Ebrose,archmaester_ebrose@westeros.example,,7,The Reach,7 scenes · most often at The Reach
+areo_hotah,Areo Hotah,areo_hotah@westeros.example,,15,Dorne,15 scenes · most often at Dorne
+armeca,Armeca,armeca@westeros.example,,5,The Crownlands,5 scenes · most often at The Crownlands
+arthur,Arthur,arthur@westeros.example,,8,The Crownlands,8 scenes · most often at The Crownlands
+arthur_dayne,Arthur Dayne,arthur_dayne@westeros.example,,2,Dorne,2 scenes · most often at Dorne
+arya_stark,Arya Stark,arya_stark@westeros.example,Stark,360,The Riverlands,House Stark · 360 scenes · most often at The Riverlands
+ash,Ash,ash@westeros.example,,1,Meereen,1 scene · most often at Meereen
+axell_florent,Axell Florent,axell_florent@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+aya,Aya,aya@westeros.example,,1,Braavos,1 scene · most often at Braavos
+baby_jon_snow,Baby Jon Snow,baby_jon_snow@westeros.example,,1,Dorne,1 scene · most often at Dorne
+baby_sam,Baby Sam,baby_sam@westeros.example,,48,The Wall,48 scenes · most often at The Wall
+balon_greyjoy,Balon Greyjoy,balon_greyjoy@westeros.example,Greyjoy,8,The Iron Islands,House Greyjoy · 8 scenes · most often at The Iron Islands
+bannen,Bannen,bannen@westeros.example,,1,North of the Wall,1 scene · most often at North of the Wall
+baratheon_general,Baratheon General,baratheon_general@westeros.example,,7,The North,7 scenes · most often at The North
+baratheon_soldier_1,Baratheon Soldier #1,baratheon_soldier_1@westeros.example,,2,The North,2 scenes · most often at The North
+baratheon_soldier_2,Baratheon Soldier #2,baratheon_soldier_2@westeros.example,,1,The North,1 scene · most often at The North
+barra,Barra,barra@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+barristan_selmy,Barristan Selmy,barristan_selmy@westeros.example,,77,Meereen,77 scenes · most often at Meereen
+bathhouse_prostitute,Bathhouse Prostitute,bathhouse_prostitute@westeros.example,,2,Braavos,2 scenes · most often at Braavos
+bear_island_maester,Bear Island Maester,bear_island_maester@westeros.example,,2,The North,2 scenes · most often at The North
+beggar_woman,Beggar Woman,beggar_woman@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+belicho_paenymion,Belicho Paenymion,belicho_paenymion@westeros.example,,5,Meereen,5 scenes · most often at Meereen
+benjen_stark,Benjen Stark,benjen_stark@westeros.example,Stark,14,North of the Wall,House Stark · 14 scenes · most often at North of the Wall
+beric_dondarrion,Beric Dondarrion,beric_dondarrion@westeros.example,,85,North of the Wall,85 scenes · most often at North of the Wall
+bernadette,Bernadette,bernadette@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+bianca,Bianca,bianca@westeros.example,,10,Braavos,10 scenes · most often at Braavos
+biter,Biter,biter@westeros.example,,3,The Riverlands,3 scenes · most often at The Riverlands
+black_jack_bulwer,Black Jack Bulwer,black_jack_bulwer@westeros.example,,2,The Wall,2 scenes · most often at The Wall
+black_lorren,Black Lorren,black_lorren@westeros.example,,5,The North,5 scenes · most often at The North
+black_walder_rivers,Black Walder Rivers,black_walder_rivers@westeros.example,Frey,10,The Riverlands,House Frey · 10 scenes · most often at The Riverlands
+boat_commander,Boat Commander,boat_commander@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+bobono,Bobono,bobono@westeros.example,,12,Braavos,12 scenes · most often at Braavos
+bolton_general,Bolton General,bolton_general@westeros.example,,1,The North,1 scene · most often at The North
+bolton_guard,Bolton Guard,bolton_guard@westeros.example,,2,The North,2 scenes · most often at The North
+bolton_officer,Bolton Officer,bolton_officer@westeros.example,,2,The North,2 scenes · most often at The North
+bolton_soldier,Bolton Soldier,bolton_soldier@westeros.example,,2,The North,2 scenes · most often at The North
+bowen_marsh,Bowen Marsh,bowen_marsh@westeros.example,,12,The Wall,12 scenes · most often at The Wall
+braavosi_captain,Braavosi Captain,braavosi_captain@westeros.example,,1,Braavos,1 scene · most often at Braavos
+braavosi_madam,Braavosi Madam,braavosi_madam@westeros.example,,1,Braavos,1 scene · most often at Braavos
+braavosi_theatre_server,Braavosi Theatre Server,braavosi_theatre_server@westeros.example,,1,Braavos,1 scene · most often at Braavos
+braavosi_theatre_sound_artist,Braavosi Theatre Sound Artist,braavosi_theatre_sound_artist@westeros.example,,3,Braavos,3 scenes · most often at Braavos
+braavosi_woman_1,Braavosi Woman #1,braavosi_woman_1@westeros.example,,1,Braavos,1 scene · most often at Braavos
+braavosi_woman_2,Braavosi Woman #2,braavosi_woman_2@westeros.example,,1,Braavos,1 scene · most often at Braavos
+bran_stark,Bran Stark,bran_stark@westeros.example,Stark,248,The North,House Stark · 248 scenes · most often at The North
+brant,Brant,brant@westeros.example,,3,The Wall,3 scenes · most often at The Wall
+brea,Brea,brea@westeros.example,,1,Braavos,1 scene · most often at Braavos
+brienne_of_tarth,Brienne of Tarth,brienne_of_tarth@westeros.example,,185,The North,185 scenes · most often at The North
+bronn,Bronn,bronn@westeros.example,,132,The Crownlands,132 scenes · most often at The Crownlands
+brothel_child_1,Brothel Child #1,brothel_child_1@westeros.example,,1,Braavos,1 scene · most often at Braavos
+brothel_child_2,Brothel Child #2,brothel_child_2@westeros.example,,1,Braavos,1 scene · most often at Braavos
+brothel_customer,Brothel Customer,brothel_customer@westeros.example,,3,The Crownlands,3 scenes · most often at The Crownlands
+brothel_guard,Brothel Guard,brothel_guard@westeros.example,,1,Volantis,1 scene · most often at Volantis
+brother_ray,Brother Ray,brother_ray@westeros.example,,8,The Riverlands,8 scenes · most often at The Riverlands
+brusco,Brusco,brusco@westeros.example,,1,Braavos,1 scene · most often at Braavos
+brynden_tully,Brynden Tully,brynden_tully@westeros.example,Tully,22,The Riverlands,House Tully · 22 scenes · most often at The Riverlands
+camello,Camello,camello@westeros.example,,8,Braavos,8 scenes · most often at Braavos
+captain_of_the_archers,Captain of the Archers,captain_of_the_archers@westeros.example,,9,The Crownlands,9 scenes · most often at The Crownlands
+captain_s_daughter,Captain's Daughter,captain_s_daughter@westeros.example,,1,The Sunset Sea,1 scene · most often at The Sunset Sea
+catelyn_stark,Catelyn Stark,catelyn_stark@westeros.example,Stark,93,The Riverlands,House Stark · 93 scenes · most often at The Riverlands
+catspaw_assassin,Catspaw Assassin,catspaw_assassin@westeros.example,,1,The North,1 scene · most often at The North
+cersei_lannister,Cersei Lannister,cersei_lannister@westeros.example,Lannister,330,The Crownlands,House Lannister · 330 scenes · most often at The Crownlands
+chella,Chella,chella@westeros.example,,2,The Westerlands,2 scenes · most often at The Westerlands
+citadel_maester,Citadel Maester,citadel_maester@westeros.example,,2,The Reach,2 scenes · most often at The Reach
+clarenzo,Clarenzo,clarenzo@westeros.example,,8,Braavos,8 scenes · most often at Braavos
+clea,Clea,clea@westeros.example,,3,Volantis,3 scenes · most often at Volantis
+cley_cerwyn,Cley Cerwyn,cley_cerwyn@westeros.example,,2,The North,2 scenes · most often at The North
+colen_of_greenpools,Colen of Greenpools,colen_of_greenpools@westeros.example,,1,The Stormlands,1 scene · most often at The Stormlands
+cooper,Cooper,cooper@westeros.example,,7,The Wall,7 scenes · most often at The Wall
+craster,Craster,craster@westeros.example,,11,North of the Wall,11 scenes · most often at North of the Wall
+craster_s_wife,Craster's Wife,craster_s_wife@westeros.example,,1,North of the Wall,1 scene · most often at North of the Wall
+craster_s_wife_2,Craster's Wife #2,craster_s_wife_2@westeros.example,,1,North of the Wall,1 scene · most often at North of the Wall
+craster_s_wife_3,Craster's Wife #3,craster_s_wife_3@westeros.example,,1,North of the Wall,1 scene · most often at North of the Wall
+craster_s_younger_wife,Craster's Younger Wife,craster_s_younger_wife@westeros.example,,1,North of the Wall,1 scene · most often at North of the Wall
+craya,Craya,craya@westeros.example,,2,The Crownlands,2 scenes · most often at The Crownlands
+daario_naharis,Daario Naharis,daario_naharis@westeros.example,,77,Meereen,77 scenes · most often at Meereen
+daenerys_targaryen,Daenerys Targaryen,daenerys_targaryen@westeros.example,Targaryen,509,The Crownlands,House Targaryen · 509 scenes · most often at The Crownlands
+dagmer_cleftjaw,Dagmer Cleftjaw,dagmer_cleftjaw@westeros.example,,16,The North,16 scenes · most often at The North
+daisy,Daisy,daisy@westeros.example,,4,The Crownlands,4 scenes · most often at The Crownlands
+davos_seaworth,Davos Seaworth,davos_seaworth@westeros.example,,256,The Crownlands,256 scenes · most often at The Crownlands
+denys_mallister,Denys Mallister,denys_mallister@westeros.example,,2,The Wall,2 scenes · most often at The Wall
+derek,Derek,derek@westeros.example,,3,The Wall,3 scenes · most often at The Wall
+desmond_crakehall,Desmond Crakehall,desmond_crakehall@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+despondent_man,Despondent Man,despondent_man@westeros.example,,2,Braavos,2 scenes · most often at Braavos
+dickon_tarly,Dickon Tarly,dickon_tarly@westeros.example,,13,The Crownlands,13 scenes · most often at The Crownlands
+dim_dalba,Dim Dalba,dim_dalba@westeros.example,,3,The North,3 scenes · most often at The North
+dirah,Dirah,dirah@westeros.example,,2,The Crownlands,2 scenes · most often at The Crownlands
+dongo_the_giant,Dongo the Giant,dongo_the_giant@westeros.example,,12,North of the Wall,12 scenes · most often at North of the Wall
+donnel_hill,Donnel Hill,donnel_hill@westeros.example,,7,The Wall,7 scenes · most often at The Wall
+donnel_waynwood,Donnel Waynwood,donnel_waynwood@westeros.example,,2,The Vale,2 scenes · most often at The Vale
+dontos_hollard,Dontos Hollard,dontos_hollard@westeros.example,,12,The Crownlands,12 scenes · most often at The Crownlands
+doran_martell,Doran Martell,doran_martell@westeros.example,Martell,14,Dorne,House Martell · 14 scenes · most often at Dorne
+doreah,Doreah,doreah@westeros.example,,20,Vaes Dothrak,20 scenes · most often at Vaes Dothrak
+dornish_lord,Dornish Lord,dornish_lord@westeros.example,,3,The Crownlands,3 scenes · most often at The Crownlands
+dothraki_bloodrider_1,Dothraki Bloodrider #1,dothraki_bloodrider_1@westeros.example,,5,Vaes Dothrak,5 scenes · most often at Vaes Dothrak
+dothraki_bloodrider_2,Dothraki Bloodrider #2,dothraki_bloodrider_2@westeros.example,,5,Vaes Dothrak,5 scenes · most often at Vaes Dothrak
+dothraki_crone,Dothraki Crone,dothraki_crone@westeros.example,,1,Vaes Dothrak,1 scene · most often at Vaes Dothrak
+dothraki_man_having_sex,Dothraki Man Having Sex,dothraki_man_having_sex@westeros.example,,1,Vaes Dothrak,1 scene · most often at Vaes Dothrak
+dothraki_widow_1,Dothraki Widow #1,dothraki_widow_1@westeros.example,,2,Vaes Dothrak,2 scenes · most often at Vaes Dothrak
+dothraki_widow_2,Dothraki Widow #2,dothraki_widow_2@westeros.example,,2,Vaes Dothrak,2 scenes · most often at Vaes Dothrak
+dothraki_woman_having_sex,Dothraki Woman Having Sex,dothraki_woman_having_sex@westeros.example,,1,Vaes Dothrak,1 scene · most often at Vaes Dothrak
+drennan,Drennan,drennan@westeros.example,,2,The North,2 scenes · most often at The North
+drogon,Drogon,drogon@westeros.example,Targaryen,194,The Crownlands,House Targaryen · 194 scenes · most often at The Crownlands
+drowned_priest,Drowned Priest,drowned_priest@westeros.example,,1,The Iron Islands,1 scene · most often at The Iron Islands
+dwarf_hunter_1,Dwarf Hunter #1,dwarf_hunter_1@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+dwarf_hunter_2,Dwarf Hunter #2,dwarf_hunter_2@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+eddard_stark,Eddard Stark,eddard_stark@westeros.example,Stark,72,The Crownlands,House Stark · 72 scenes · most often at The Crownlands
+eddison_tollett,Eddison Tollett,eddison_tollett@westeros.example,,120,The Wall,120 scenes · most often at The Wall
+edmure_tully,Edmure Tully,edmure_tully@westeros.example,Tully,30,The Riverlands,House Tully · 30 scenes · most often at The Riverlands
+elder_meereen_slave,Elder Meereen Slave,elder_meereen_slave@westeros.example,,2,Meereen,2 scenes · most often at Meereen
+eldrick_sarsfield,Eldrick Sarsfield,eldrick_sarsfield@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+eleanor,Eleanor,eleanor@westeros.example,,9,The Crownlands,9 scenes · most often at The Crownlands
+eleanor_s_daughter,Eleanor's Daughter,eleanor_s_daughter@westeros.example,,9,The Crownlands,9 scenes · most often at The Crownlands
+ellaria_sand,Ellaria Sand,ellaria_sand@westeros.example,Martell,47,The Crownlands,House Martell · 47 scenes · most often at The Crownlands
+euron_greyjoy,Euron Greyjoy,euron_greyjoy@westeros.example,Greyjoy,55,The Crownlands,House Greyjoy · 55 scenes · most often at The Crownlands
+eyrie_guard,Eyrie Guard,eyrie_guard@westeros.example,,3,The Vale,3 scenes · most often at The Vale
+faceless_man,Faceless Man,faceless_man@westeros.example,,4,Braavos,4 scenes · most often at Braavos
+faith_militant_1,Faith Militant #1,faith_militant_1@westeros.example,,3,The Crownlands,3 scenes · most often at The Crownlands
+faith_militant_2,Faith Militant #2,faith_militant_2@westeros.example,,2,The Crownlands,2 scenes · most often at The Crownlands
+farlen,Farlen,farlen@westeros.example,,1,The North,1 scene · most often at The North
+farmer_hamlet,Farmer Hamlet,farmer_hamlet@westeros.example,,4,The Riverlands,4 scenes · most often at The Riverlands
+farmer_s_daughter,Farmer's Daughter,farmer_s_daughter@westeros.example,,4,The Riverlands,4 scenes · most often at The Riverlands
+fennesz,Fennesz,fennesz@westeros.example,,1,Meereen,1 scene · most often at Meereen
+fergus,Fergus,fergus@westeros.example,,3,The North,3 scenes · most often at The North
+first_mate,First Mate,first_mate@westeros.example,,4,The North,4 scenes · most often at The North
+frances,Frances,frances@westeros.example,,6,The Crownlands,6 scenes · most often at The Crownlands
+frey_guard,Frey Guard,frey_guard@westeros.example,,2,The Riverlands,2 scenes · most often at The Riverlands
+frey_soldier_1,Frey Soldier #1,frey_soldier_1@westeros.example,,1,The Riverlands,1 scene · most often at The Riverlands
+frey_soldier_2,Frey Soldier #2,frey_soldier_2@westeros.example,,1,The Riverlands,1 scene · most often at The Riverlands
+fruit_vendor,Fruit Vendor,fruit_vendor@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+gared,Gared,gared@westeros.example,,6,North of the Wall,6 scenes · most often at North of the Wall
+gatins,Gatins,gatins@westeros.example,,5,The Riverlands,5 scenes · most often at The Riverlands
+gendry,Gendry,gendry@westeros.example,Baratheon,112,The Riverlands,House Baratheon · 112 scenes · most often at The Riverlands
+genna,Genna,genna@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+gerard,Gerard,gerard@westeros.example,,1,The Stormlands,1 scene · most often at The Stormlands
+gerold_hightower,Gerold Hightower,gerold_hightower@westeros.example,,1,Dorne,1 scene · most often at Dorne
+ghita,Ghita,ghita@westeros.example,,6,Braavos,6 scenes · most often at Braavos
+ghost,Ghost,ghost@westeros.example,Stark,51,The Wall,House Stark · 51 scenes · most often at The Wall
+gilly,Gilly,gilly@westeros.example,,81,The Wall,81 scenes · most often at The Wall
+goatherd,Goatherd,goatherd@westeros.example,,3,Meereen,3 scenes · most often at Meereen
+goatherd_s_son,Goatherd's Son,goatherd_s_son@westeros.example,,1,Meereen,1 scene · most often at Meereen
+goldcloak,Goldcloak,goldcloak@westeros.example,,1,The Riverlands,1 scene · most often at The Riverlands
+gordy,Gordy,gordy@westeros.example,,1,The North,1 scene · most often at The North
+grand_maester_pycelle,Grand Maester Pycelle,grand_maester_pycelle@westeros.example,,72,The Crownlands,72 scenes · most often at The Crownlands
+great_master_1,Great Master #1,great_master_1@westeros.example,,3,Meereen,3 scenes · most often at Meereen
+great_master_2,Great Master #2,great_master_2@westeros.example,,3,Meereen,3 scenes · most often at Meereen
+great_master_3,Great Master #3,great_master_3@westeros.example,,3,Meereen,3 scenes · most often at Meereen
+great_master_4,Great Master #4,great_master_4@westeros.example,,3,Meereen,3 scenes · most often at Meereen
+great_master_5,Great Master #5,great_master_5@westeros.example,,3,Meereen,3 scenes · most often at Meereen
+great_master_6,Great Master #6,great_master_6@westeros.example,,3,Meereen,3 scenes · most often at Meereen
+great_master_7,Great Master #7,great_master_7@westeros.example,,3,Meereen,3 scenes · most often at Meereen
+greatjon_umber,Greatjon Umber,greatjon_umber@westeros.example,,8,The North,8 scenes · most often at The North
+gregor_clegane,Gregor Clegane,gregor_clegane@westeros.example,,91,The Crownlands,91 scenes · most often at The Crownlands
+greizhen_mo_ullhor,Greizhen mo Ullhor,greizhen_mo_ullhor@westeros.example,,3,Astapor,3 scenes · most often at Astapor
+grenn,Grenn,grenn@westeros.example,,65,The Wall,65 scenes · most often at The Wall
+grey_wind,Grey Wind,grey_wind@westeros.example,Stark,10,The Riverlands,House Stark · 10 scenes · most often at The Riverlands
+grey_worm,Grey Worm,grey_worm@westeros.example,,176,The Crownlands,176 scenes · most often at The Crownlands
+guymon,Guymon,guymon@westeros.example,,2,The Wall,2 scenes · most often at The Wall
+hallyne,Hallyne,hallyne@westeros.example,,10,The Crownlands,10 scenes · most often at The Crownlands
+handmaid,Handmaid,handmaid@westeros.example,,9,The Crownlands,9 scenes · most often at The Crownlands
+harald_karstark,Harald Karstark,harald_karstark@westeros.example,,9,The North,9 scenes · most often at The North
+harrag,Harrag,harrag@westeros.example,,4,The Crownlands,4 scenes · most often at The Crownlands
+harry_strickland,Harry Strickland,harry_strickland@westeros.example,,7,The Crownlands,7 scenes · most often at The Crownlands
+henk,Henk,henk@westeros.example,,3,The North,3 scenes · most often at The North
+high_priestess,High Priestess,high_priestess@westeros.example,,7,Vaes Dothrak,7 scenes · most often at Vaes Dothrak
+high_septon,High Septon,high_septon@westeros.example,,22,The Crownlands,22 scenes · most often at The Crownlands
+high_sparrow,High Sparrow,high_sparrow@westeros.example,,37,The Crownlands,37 scenes · most often at The Crownlands
+hizdahr_zo_loraq,Hizdahr zo Loraq,hizdahr_zo_loraq@westeros.example,,29,Meereen,29 scenes · most often at Meereen
+hodor,Hodor,hodor@westeros.example,,83,North of the Wall,83 scenes · most often at North of the Wall
+hog_farmer,Hog Farmer,hog_farmer@westeros.example,,1,The Riverlands,1 scene · most often at The Riverlands
+hoster_tully,Hoster Tully,hoster_tully@westeros.example,Tully,1,The Riverlands,House Tully · 1 scene · most often at The Riverlands
+hot_pie,Hot Pie,hot_pie@westeros.example,,26,The Riverlands,26 scenes · most often at The Riverlands
+howland_reed,Howland Reed,howland_reed@westeros.example,,3,Dorne,3 scenes · most often at Dorne
+hugh_of_the_vale,Hugh of the Vale,hugh_of_the_vale@westeros.example,,3,The Crownlands,3 scenes · most often at The Crownlands
+iggo,Iggo,iggo@westeros.example,,1,Vaes Dothrak,1 scene · most often at Vaes Dothrak
+illyrio_mopatis,Illyrio Mopatis,illyrio_mopatis@westeros.example,,4,Pentos,4 scenes · most often at Pentos
+ilyn_payne,Ilyn Payne,ilyn_payne@westeros.example,,12,The Crownlands,12 scenes · most often at The Crownlands
+inn_waitress,Inn Waitress,inn_waitress@westeros.example,,1,The Vale,1 scene · most often at The Vale
+innkeeper,Innkeeper,innkeeper@westeros.example,,2,The Riverlands,2 scenes · most often at The Riverlands
+innkeeper_s_daughter,Innkeeper's Daughter,innkeeper_s_daughter@westeros.example,,1,The Riverlands,1 scene · most often at The Riverlands
+ironborn_1,Ironborn #1,ironborn_1@westeros.example,,2,The Iron Islands,2 scenes · most often at The Iron Islands
+ironborn_2,Ironborn #2,ironborn_2@westeros.example,,2,The Iron Islands,2 scenes · most often at The Iron Islands
+ironborn_3,Ironborn #3,ironborn_3@westeros.example,,2,The Iron Islands,2 scenes · most often at The Iron Islands
+ironborn_abusing_a_volantene_whore,Ironborn Abusing a Volantene Whore,ironborn_abusing_a_volantene_whore@westeros.example,,1,Volantis,1 scene · most often at Volantis
+ironborn_at_brothel,Ironborn at Brothel,ironborn_at_brothel@westeros.example,,1,Volantis,1 scene · most often at Volantis
+ironborn_in_skiff,Ironborn in Skiff,ironborn_in_skiff@westeros.example,,1,The North,1 scene · most often at The North
+irri,Irri,irri@westeros.example,,19,The Dothraki Sea,19 scenes · most often at The Dothraki Sea
+izembaro,Izembaro,izembaro@westeros.example,,11,Braavos,11 scenes · most often at Braavos
+jacks,Jacks,jacks@westeros.example,,3,The Westerlands,3 scenes · most often at The Westerlands
+jafer_flowers,Jafer Flowers,jafer_flowers@westeros.example,,1,The Wall,1 scene · most often at The Wall
+jaime_lannister,Jaime Lannister,jaime_lannister@westeros.example,Lannister,330,The Crownlands,House Lannister · 330 scenes · most often at The Crownlands
+janos_slynt,Janos Slynt,janos_slynt@westeros.example,,36,The Wall,36 scenes · most often at The Wall
+jaqen_h_ghar,Jaqen H'ghar,jaqen_h_ghar@westeros.example,,37,Braavos,37 scenes · most often at Braavos
+jaqen_s_disguise,Jaqen's Disguise,jaqen_s_disguise@westeros.example,,1,The Riverlands,1 scene · most often at The Riverlands
+jaremy_rykker,Jaremy Rykker,jaremy_rykker@westeros.example,,1,The Wall,1 scene · most often at The Wall
+jeor_mormont,Jeor Mormont,jeor_mormont@westeros.example,Mormont,30,North of the Wall,House Mormont · 30 scenes · most often at North of the Wall
+jhiqui,Jhiqui,jhiqui@westeros.example,,2,The Dothraki Sea,2 scenes · most often at The Dothraki Sea
+joffrey_baratheon,Joffrey Baratheon,joffrey_baratheon@westeros.example,Baratheon,119,The Crownlands,House Baratheon · 119 scenes · most often at The Crownlands
+johnna,Johnna,johnna@westeros.example,,3,North of the Wall,3 scenes · most often at North of the Wall
+jojen_reed,Jojen Reed,jojen_reed@westeros.example,,44,North of the Wall,44 scenes · most often at North of the Wall
+jon_arryn,Jon Arryn,jon_arryn@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+jon_snow,Jon Snow,jon_snow@westeros.example,Stark,632,The North,House Stark · 632 scenes · most often at The North
+jonos_bracken,Jonos Bracken,jonos_bracken@westeros.example,,1,The Riverlands,1 scene · most often at The Riverlands
+jorah_mormont,Jorah Mormont,jorah_mormont@westeros.example,Mormont,257,The North,House Mormont · 257 scenes · most often at The North
+jory_cassel,Jory Cassel,jory_cassel@westeros.example,,18,The Crownlands,18 scenes · most often at The Crownlands
+joss,Joss,joss@westeros.example,,3,Braavos,3 scenes · most often at Braavos
+joyeuse_erenford,Joyeuse Erenford,joyeuse_erenford@westeros.example,,10,The Riverlands,10 scenes · most often at The Riverlands
+karl_tanner,Karl Tanner,karl_tanner@westeros.example,,14,North of the Wall,14 scenes · most often at North of the Wall
+karsi,Karsi,karsi@westeros.example,,9,North of the Wall,9 scenes · most often at North of the Wall
+karstark_lookout,Karstark Lookout,karstark_lookout@westeros.example,,1,The Riverlands,1 scene · most often at The Riverlands
+kayla,Kayla,kayla@westeros.example,,2,The Crownlands,2 scenes · most often at The Crownlands
+kegs,Kegs,kegs@westeros.example,,2,The Wall,2 scenes · most often at The Wall
+kesh,Kesh,kesh@westeros.example,,1,Meereen,1 scene · most often at Meereen
+kevan_lannister,Kevan Lannister,kevan_lannister@westeros.example,Lannister,24,The Crownlands,House Lannister · 24 scenes · most often at The Crownlands
+kevin_eldon,Kevin Eldon,kevin_eldon@westeros.example,,2,The Crownlands,2 scenes · most often at The Crownlands
+khal_brozho,Khal Brozho,khal_brozho@westeros.example,,4,Vaes Dothrak,4 scenes · most often at Vaes Dothrak
+khal_drogo,Khal Drogo,khal_drogo@westeros.example,,22,The Dothraki Sea,22 scenes · most often at The Dothraki Sea
+khal_forzho,Khal Forzho,khal_forzho@westeros.example,,4,Vaes Dothrak,4 scenes · most often at Vaes Dothrak
+khal_moro,Khal Moro,khal_moro@westeros.example,,6,Vaes Dothrak,6 scenes · most often at Vaes Dothrak
+khal_qorro,Khal Qorro,khal_qorro@westeros.example,,4,Vaes Dothrak,4 scenes · most often at Vaes Dothrak
+khal_rhalko,Khal Rhalko,khal_rhalko@westeros.example,,4,Vaes Dothrak,4 scenes · most often at Vaes Dothrak
+king_balon_greyjoy_dwarf,King Balon Greyjoy Dwarf,king_balon_greyjoy_dwarf@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+king_joffrey_baratheon_dwarf,King Joffrey Baratheon Dwarf,king_joffrey_baratheon_dwarf@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+king_renly_baratheon_dwarf,King Renly Baratheon Dwarf,king_renly_baratheon_dwarf@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+king_robb_stark_dwarf,King Robb Stark Dwarf,king_robb_stark_dwarf@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+king_stannis_baratheon_dwarf,King Stannis Baratheon Dwarf,king_stannis_baratheon_dwarf@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+king_s_landing_baker,King's Landing Baker,king_s_landing_baker@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+king_s_landing_boaster,King's Landing Boaster,king_s_landing_boaster@westeros.example,,2,The Crownlands,2 scenes · most often at The Crownlands
+king_s_landing_drunkard,King's Landing Drunkard,king_s_landing_drunkard@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+king_s_landing_flasher_1,King's Landing Flasher #1,king_s_landing_flasher_1@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+king_s_landing_flasher_2,King's Landing Flasher #2,king_s_landing_flasher_2@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+king_s_landing_rioter_1,King's Landing Rioter #1,king_s_landing_rioter_1@westeros.example,,4,The Crownlands,4 scenes · most often at The Crownlands
+king_s_landing_rioter_2,King's Landing Rioter #2,king_s_landing_rioter_2@westeros.example,,4,The Crownlands,4 scenes · most often at The Crownlands
+king_s_landing_rioter_3,King's Landing Rioter #3,king_s_landing_rioter_3@westeros.example,,4,The Crownlands,4 scenes · most often at The Crownlands
+king_s_landing_tailor,King's Landing Tailor,king_s_landing_tailor@westeros.example,,2,The Crownlands,2 scenes · most often at The Crownlands
+king_s_landing_whore,King's Landing Whore,king_s_landing_whore@westeros.example,,3,The Crownlands,3 scenes · most often at The Crownlands
+kinvara,Kinvara,kinvara@westeros.example,,1,Meereen,1 scene · most often at Meereen
+kitty_frey,Kitty Frey,kitty_frey@westeros.example,Frey,4,The Riverlands,House Frey · 4 scenes · most often at The Riverlands
+koner,Koner,koner@westeros.example,,3,The North,3 scenes · most often at The North
+kovarro,Kovarro,kovarro@westeros.example,,16,Qarth,16 scenes · most often at Qarth
+kraznys_mo_nakloz,Kraznys mo Nakloz,kraznys_mo_nakloz@westeros.example,,5,Astapor,5 scenes · most often at Astapor
+lady,Lady,lady@westeros.example,Stark,4,The Riverlands,House Stark · 4 scenes · most often at The Riverlands
+lady_crane,Lady Crane,lady_crane@westeros.example,,15,Braavos,15 scenes · most often at Braavos
+lancel_lannister,Lancel Lannister,lancel_lannister@westeros.example,Lannister,50,The Crownlands,House Lannister · 50 scenes · most often at The Crownlands
+lannister_captain,Lannister Captain,lannister_captain@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+lannister_guard,Lannister Guard,lannister_guard@westeros.example,,4,The Riverlands,4 scenes · most often at The Riverlands
+lannister_guard_1,Lannister Guard #1,lannister_guard_1@westeros.example,,2,Braavos,2 scenes · most often at Braavos
+lannister_guard_2,Lannister Guard #2,lannister_guard_2@westeros.example,,2,Braavos,2 scenes · most often at Braavos
+lannister_messenger,Lannister Messenger,lannister_messenger@westeros.example,,1,The Westerlands,1 scene · most often at The Westerlands
+lannister_scout,Lannister Scout,lannister_scout@westeros.example,,2,The North,2 scenes · most often at The North
+lannister_soldier,Lannister Soldier,lannister_soldier@westeros.example,,2,The Riverlands,2 scenes · most often at The Riverlands
+laurence_spellman,Laurence Spellman,laurence_spellman@westeros.example,,2,The Crownlands,2 scenes · most often at The Crownlands
+lead_dornish_guard,Lead Dornish Guard,lead_dornish_guard@westeros.example,,1,Dorne,1 scene · most often at Dorne
+lead_kingsguard,Lead Kingsguard,lead_kingsguard@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+leaf,Leaf,leaf@westeros.example,,21,North of the Wall,21 scenes · most often at North of the Wall
+lem_lemoncloak,Lem Lemoncloak,lem_lemoncloak@westeros.example,,2,The Riverlands,2 scenes · most often at The Riverlands
+leo_lefford,Leo Lefford,leo_lefford@westeros.example,,1,The Riverlands,1 scene · most often at The Riverlands
+lhara,Lhara,lhara@westeros.example,,4,Braavos,4 scenes · most often at Braavos
+little_bird,Little Bird,little_bird@westeros.example,,2,Vaes Dothrak,2 scenes · most often at Vaes Dothrak
+little_bird_3,Little Bird #3,little_bird_3@westeros.example,,6,The Crownlands,6 scenes · most often at The Crownlands
+little_bird_4,Little Bird #4,little_bird_4@westeros.example,,5,The Crownlands,5 scenes · most often at The Crownlands
+little_bird_5,Little Bird #5,little_bird_5@westeros.example,,5,The Crownlands,5 scenes · most often at The Crownlands
+little_bird_6,Little Bird #6,little_bird_6@westeros.example,,5,The Crownlands,5 scenes · most often at The Crownlands
+little_bird_7,Little Bird #7,little_bird_7@westeros.example,,5,The Crownlands,5 scenes · most often at The Crownlands
+loboda,Loboda,loboda@westeros.example,,6,North of the Wall,6 scenes · most often at North of the Wall
+locke,Locke,locke@westeros.example,,34,The Riverlands,34 scenes · most often at The Riverlands
+lollys_stokeworth,Lollys Stokeworth,lollys_stokeworth@westeros.example,,2,The Crownlands,2 scenes · most often at The Crownlands
+lommy_greenhands,Lommy Greenhands,lommy_greenhands@westeros.example,,6,The Riverlands,6 scenes · most often at The Riverlands
+loras_tyrell,Loras Tyrell,loras_tyrell@westeros.example,Tyrell,55,The Crownlands,House Tyrell · 55 scenes · most often at The Crownlands
+lord_1,Lord #1,lord_1@westeros.example,,3,The Crownlands,3 scenes · most often at The Crownlands
+lord_2,Lord #2,lord_2@westeros.example,,3,The Crownlands,3 scenes · most often at The Crownlands
+lord_3,Lord #3,lord_3@westeros.example,,3,The Crownlands,3 scenes · most often at The Crownlands
+lord_4,Lord #4,lord_4@westeros.example,,3,The Crownlands,3 scenes · most often at The Crownlands
+lord_blackmont,Lord Blackmont,lord_blackmont@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+lord_portan,Lord Portan,lord_portan@westeros.example,,1,The North,1 scene · most often at The North
+lord_varys,Lord Varys,lord_varys@westeros.example,,194,The Crownlands,194 scenes · most often at The Crownlands
+lordsport_dockhand,Lordsport Dockhand,lordsport_dockhand@westeros.example,,1,The Iron Islands,1 scene · most often at The Iron Islands
+lothar_frey,Lothar Frey,lothar_frey@westeros.example,Frey,15,The Riverlands,House Frey · 15 scenes · most often at The Riverlands
+loyal_night_s_watchman_1,Loyal Night's Watchman #1,loyal_night_s_watchman_1@westeros.example,,7,The Wall,7 scenes · most often at The Wall
+loyal_night_s_watchman_2,Loyal Night's Watchman #2,loyal_night_s_watchman_2@westeros.example,,7,The Wall,7 scenes · most often at The Wall
+lyanna_mormont,Lyanna Mormont,lyanna_mormont@westeros.example,Mormont,36,The North,House Mormont · 36 scenes · most often at The North
+lyanna_stark,Lyanna Stark,lyanna_stark@westeros.example,Stark,4,Dorne,House Stark · 4 scenes · most often at Dorne
+lysa_arryn,Lysa Arryn,lysa_arryn@westeros.example,Arryn,10,The Vale,House Arryn · 10 scenes · most often at The Vale
+mace_tyrell,Mace Tyrell,mace_tyrell@westeros.example,Tyrell,63,The Crownlands,House Tyrell · 63 scenes · most often at The Crownlands
+maester_aemon,Maester Aemon,maester_aemon@westeros.example,Targaryen,18,The Wall,House Targaryen · 18 scenes · most often at The Wall
+maester_caleotte,Maester Caleotte,maester_caleotte@westeros.example,,1,Dorne,1 scene · most often at Dorne
+maester_cressen,Maester Cressen,maester_cressen@westeros.example,,3,The Crownlands,3 scenes · most often at The Crownlands
+maester_luwin,Maester Luwin,maester_luwin@westeros.example,,29,The North,29 scenes · most often at The North
+maester_sandhu,Maester Sandhu,maester_sandhu@westeros.example,,2,The Reach,2 scenes · most often at The Reach
+maester_wolkan,Maester Wolkan,maester_wolkan@westeros.example,,15,The North,15 scenes · most often at The North
+mag_the_mighty,Mag the Mighty,mag_the_mighty@westeros.example,,15,North of the Wall,15 scenes · most often at North of the Wall
+mag_the_mighty_wight,Mag the Mighty Wight,mag_the_mighty_wight@westeros.example,,1,North of the Wall,1 scene · most often at North of the Wall
+maggy,Maggy,maggy@westeros.example,,1,The Westerlands,1 scene · most often at The Westerlands
+mago,Mago,mago@westeros.example,,2,The Dothraki Sea,2 scenes · most often at The Dothraki Sea
+malko,Malko,malko@westeros.example,,3,Valyria,3 scenes · most often at Valyria
+mallister_supporter,Mallister Supporter,mallister_supporter@westeros.example,,1,The Wall,1 scene · most often at The Wall
+man_of_the_nightswatch,Man of the Nightswatch,man_of_the_nightswatch@westeros.example,,1,North of the Wall,1 scene · most often at North of the Wall
+mance_rayder,Mance Rayder,mance_rayder@westeros.example,,17,North of the Wall,17 scenes · most often at North of the Wall
+mandon_moore,Mandon Moore,mandon_moore@westeros.example,,7,The Crownlands,7 scenes · most often at The Crownlands
+manservant,Manservant,manservant@westeros.example,,1,Meereen,1 scene · most often at Meereen
+marei,Marei,marei@westeros.example,,8,The Crownlands,8 scenes · most often at The Crownlands
+margaery_tyrell,Margaery Tyrell,margaery_tyrell@westeros.example,Tyrell,125,The Crownlands,House Tyrell · 125 scenes · most often at The Crownlands
+margaery_tyrell_mummer,Margaery Tyrell Mummer,margaery_tyrell_mummer@westeros.example,,7,Braavos,7 scenes · most often at Braavos
+margaery_s_handmaiden,Margaery's Handmaiden,margaery_s_handmaiden@westeros.example,,3,The Crownlands,3 scenes · most often at The Crownlands
+marillion,Marillion,marillion@westeros.example,,3,The Riverlands,3 scenes · most often at The Riverlands
+martha,Martha,martha@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+martyn_lannister,Martyn Lannister,martyn_lannister@westeros.example,Lannister,2,The Riverlands,House Lannister · 2 scenes · most often at The Riverlands
+master_torturer,Master Torturer,master_torturer@westeros.example,,4,The North,4 scenes · most often at The North
+matthos_seaworth,Matthos Seaworth,matthos_seaworth@westeros.example,,12,The Crownlands,12 scenes · most often at The Crownlands
+meera_reed,Meera Reed,meera_reed@westeros.example,,71,North of the Wall,71 scenes · most often at North of the Wall
+meereenese_homeless_mother,Meereenese Homeless Mother,meereenese_homeless_mother@westeros.example,,1,Meereen,1 scene · most often at Meereen
+melara_hetherspoon,Melara Hetherspoon,melara_hetherspoon@westeros.example,,2,The Westerlands,2 scenes · most often at The Westerlands
+melessa_tarly,Melessa Tarly,melessa_tarly@westeros.example,,2,The Reach,2 scenes · most often at The Reach
+melisandre,Melisandre,melisandre@westeros.example,,97,The North,97 scenes · most often at The North
+merchant_captain,Merchant Captain,merchant_captain@westeros.example,,2,The Stormlands,2 scenes · most often at The Stormlands
+mero,Mero,mero@westeros.example,,3,Yunkai,3 scenes · most often at Yunkai
+merry_frey,Merry Frey,merry_frey@westeros.example,,1,The Riverlands,1 scene · most often at The Riverlands
+meryn_trant,Meryn Trant,meryn_trant@westeros.example,,42,The Crownlands,42 scenes · most often at The Crownlands
+mhaegen,Mhaegen,mhaegen@westeros.example,,2,The Crownlands,2 scenes · most often at The Crownlands
+mirelle,Mirelle,mirelle@westeros.example,,2,The Crownlands,2 scenes · most often at The Crownlands
+mirri_maz_duur,Mirri Maz Duur,mirri_maz_duur@westeros.example,,7,The Red Waste,7 scenes · most often at The Red Waste
+missandei,Missandei,missandei@westeros.example,,184,Meereen,184 scenes · most often at Meereen
+mole_s_town_madam,Mole's Town Madam,mole_s_town_madam@westeros.example,,1,The Wall,1 scene · most often at The Wall
+mole_s_town_whore,Mole's Town Whore,mole_s_town_whore@westeros.example,,3,The Wall,3 scenes · most often at The Wall
+morag,Morag,morag@westeros.example,,3,North of the Wall,3 scenes · most often at North of the Wall
+mord,Mord,mord@westeros.example,,4,The Vale,4 scenes · most often at The Vale
+morgan,Morgan,morgan@westeros.example,,6,The Riverlands,6 scenes · most often at The Riverlands
+morgan_s_friend,Morgan's Friend,morgan_s_friend@westeros.example,,2,The Crownlands,2 scenes · most often at The Crownlands
+moro_s_wife_1,Moro's Wife #1,moro_s_wife_1@westeros.example,,1,The Dothraki Sea,1 scene · most often at The Dothraki Sea
+moro_s_wife_2,Moro's Wife #2,moro_s_wife_2@westeros.example,,1,The Dothraki Sea,1 scene · most often at The Dothraki Sea
+mossador,Mossador,mossador@westeros.example,,7,Meereen,7 scenes · most often at Meereen
+mully,Mully,mully@westeros.example,,2,The Wall,2 scenes · most often at The Wall
+mummer_2,Mummer #2,mummer_2@westeros.example,,3,Braavos,3 scenes · most often at Braavos
+mummer_3,Mummer #3,mummer_3@westeros.example,,3,Braavos,3 scenes · most often at Braavos
+mummer_4,Mummer #4,mummer_4@westeros.example,,3,Braavos,3 scenes · most often at Braavos
+musician_1,Musician #1,musician_1@westeros.example,,6,The Crownlands,6 scenes · most often at The Crownlands
+musician_2,Musician #2,musician_2@westeros.example,,6,The Crownlands,6 scenes · most often at The Crownlands
+musician_3,Musician #3,musician_3@westeros.example,,6,The Crownlands,6 scenes · most often at The Crownlands
+musician_4,Musician #4,musician_4@westeros.example,,3,Braavos,3 scenes · most often at Braavos
+musician_5,Musician #5,musician_5@westeros.example,,3,Braavos,3 scenes · most often at Braavos
+mycah,Mycah,mycah@westeros.example,,2,The Riverlands,2 scenes · most often at The Riverlands
+myranda,Myranda,myranda@westeros.example,,15,The North,15 scenes · most often at The North
+myrcella_baratheon,Myrcella Baratheon,myrcella_baratheon@westeros.example,Baratheon,25,Dorne,House Baratheon · 25 scenes · most often at Dorne
+ned_umber,Ned Umber,ned_umber@westeros.example,Umber,7,The North,House Umber · 7 scenes · most often at The North
+newborn_bolton,Newborn Bolton,newborn_bolton@westeros.example,,1,The North,1 scene · most often at The North
+night_s_watchman,Night's Watchman,night_s_watchman@westeros.example,,2,The Wall,2 scenes · most often at The Wall
+night_s_watchman_1,Night's Watchman #1,night_s_watchman_1@westeros.example,,1,The Wall,1 scene · most often at The Wall
+night_s_watchman_2,Night's Watchman #2,night_s_watchman_2@westeros.example,,2,The Wall,2 scenes · most often at The Wall
+northern_guard,Northern Guard,northern_guard@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+northern_lord,Northern Lord,northern_lord@westeros.example,,1,The North,1 scene · most often at The North
+northman_rioter,Northman Rioter,northman_rioter@westeros.example,,1,The North,1 scene · most often at The North
+nymeria,Nymeria,nymeria@westeros.example,Stark,5,The Riverlands,House Stark · 5 scenes · most often at The Riverlands
+nymeria_sand,Nymeria Sand,nymeria_sand@westeros.example,Martell,21,Dorne,House Martell · 21 scenes · most often at Dorne
+obara_sand,Obara Sand,obara_sand@westeros.example,Martell,20,Dorne,House Martell · 20 scenes · most often at Dorne
+oberyn_martell,Oberyn Martell,oberyn_martell@westeros.example,Martell,38,The Crownlands,House Martell · 38 scenes · most often at The Crownlands
+old_man,Old Man,old_man@westeros.example,,7,The North,7 scenes · most often at The North
+old_nan,Old Nan,old_nan@westeros.example,,2,The North,2 scenes · most often at The North
+old_woman,Old Woman,old_woman@westeros.example,,3,The North,3 scenes · most often at The North
+old_woman_prisoner,Old Woman Prisoner,old_woman_prisoner@westeros.example,,2,The Riverlands,2 scenes · most often at The Riverlands
+olenna_tyrell,Olenna Tyrell,olenna_tyrell@westeros.example,Tyrell,66,The Crownlands,House Tyrell · 66 scenes · most often at The Crownlands
+olly,Olly,olly@westeros.example,,45,The Wall,45 scenes · most often at The Wall
+olly_s_mother,Olly's Mother,olly_s_mother@westeros.example,,1,The Wall,1 scene · most often at The Wall
+olyvar,Olyvar,olyvar@westeros.example,,18,The Crownlands,18 scenes · most often at The Crownlands
+orell,Orell,orell@westeros.example,,18,The North,18 scenes · most often at The North
+ornela,Ornela,ornela@westeros.example,,7,Vaes Dothrak,7 scenes · most often at Vaes Dothrak
+orphan_kid,Orphan Kid,orphan_kid@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+osha,Osha,osha@westeros.example,,42,The North,42 scenes · most often at The North
+othell_yarwyck,Othell Yarwyck,othell_yarwyck@westeros.example,,21,The Wall,21 scenes · most often at The Wall
+othor,Othor,othor@westeros.example,,2,The Wall,2 scenes · most often at The Wall
+oznak_zo_pahl,Oznak zo Pahl,oznak_zo_pahl@westeros.example,,7,Meereen,7 scenes · most often at Meereen
+petyr_baelish,Petyr Baelish,petyr_baelish@westeros.example,,121,The Crownlands,121 scenes · most often at The Crownlands
+pit_announcer,Pit Announcer,pit_announcer@westeros.example,,2,Meereen,2 scenes · most often at Meereen
+podrick_payne,Podrick Payne,podrick_payne@westeros.example,,145,The Crownlands,145 scenes · most often at The Crownlands
+polliver,Polliver,polliver@westeros.example,,8,The Riverlands,8 scenes · most often at The Riverlands
+prendahl_na_ghezn,Prendahl na Ghezn,prendahl_na_ghezn@westeros.example,,3,Yunkai,3 scenes · most often at Yunkai
+protestor,Protestor,protestor@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+pyat_pree,Pyat Pree,pyat_pree@westeros.example,,5,Qarth,5 scenes · most often at Qarth
+pypar,Pypar,pypar@westeros.example,,27,The Wall,27 scenes · most often at The Wall
+qartheen_woman,Qartheen Woman,qartheen_woman@westeros.example,,1,Qarth,1 scene · most often at Qarth
+qhono,Qhono,qhono@westeros.example,,48,The Crownlands,48 scenes · most often at The Crownlands
+qhorin_halfhand,Qhorin Halfhand,qhorin_halfhand@westeros.example,,7,North of the Wall,7 scenes · most often at North of the Wall
+qotho,Qotho,qotho@westeros.example,,7,Pentos,7 scenes · most often at Pentos
+quaithe,Quaithe,quaithe@westeros.example,,3,Qarth,3 scenes · most often at Qarth
+quent,Quent,quent@westeros.example,,1,The Westerlands,1 scene · most often at The Westerlands
+qyburn,Qyburn,qyburn@westeros.example,,86,The Crownlands,86 scenes · most often at The Crownlands
+rakharo,Rakharo,rakharo@westeros.example,,15,The Red Waste,15 scenes · most often at The Red Waste
+ralf_kenning,Ralf Kenning,ralf_kenning@westeros.example,,1,The North,1 scene · most often at The North
+ramsay_snow,Ramsay Snow,ramsay_snow@westeros.example,Bolton,81,The North,House Bolton · 81 scenes · most often at The North
+randyll_tarly,Randyll Tarly,randyll_tarly@westeros.example,,12,The Crownlands,12 scenes · most often at The Crownlands
+rast,Rast,rast@westeros.example,,32,North of the Wall,32 scenes · most often at North of the Wall
+rattleshirt,Rattleshirt,rattleshirt@westeros.example,,7,North of the Wall,7 scenes · most often at North of the Wall
+razdal_mo_eraz,Razdal mo Eraz,razdal_mo_eraz@westeros.example,,7,Meereen,7 scenes · most often at Meereen
+red_keep_stableboy,Red Keep Stableboy,red_keep_stableboy@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+red_priestess,Red Priestess,red_priestess@westeros.example,,3,Volantis,3 scenes · most often at Volantis
+reginald_lannister,Reginald Lannister,reginald_lannister@westeros.example,,1,The Riverlands,1 scene · most often at The Riverlands
+renly_baratheon,Renly Baratheon,renly_baratheon@westeros.example,Baratheon,21,The Crownlands,House Baratheon · 21 scenes · most often at The Crownlands
+rennick,Rennick,rennick@westeros.example,,2,The Westerlands,2 scenes · most often at The Westerlands
+rhaegal,Rhaegal,rhaegal@westeros.example,Targaryen,84,The North,House Targaryen · 84 scenes · most often at The North
+rhaegar_targaryen,Rhaegar Targaryen,rhaegar_targaryen@westeros.example,Targaryen,1,Dorne,House Targaryen · 1 scene · most often at Dorne
+rhaego,Rhaego,rhaego@westeros.example,,3,Vaes Dothrak,3 scenes · most often at Vaes Dothrak
+rickard_karstark,Rickard Karstark,rickard_karstark@westeros.example,,10,The Riverlands,10 scenes · most often at The Riverlands
+rickard_stark,Rickard Stark,rickard_stark@westeros.example,Stark,1,The North,House Stark · 1 scene · most often at The North
+rickon_stark,Rickon Stark,rickon_stark@westeros.example,Stark,34,The North,House Stark · 34 scenes · most often at The North
+riddell,Riddell,riddell@westeros.example,,3,The Riverlands,3 scenes · most often at The Riverlands
+riverlands_traveller,Riverlands Traveller,riverlands_traveller@westeros.example,,2,The Riverlands,2 scenes · most often at The Riverlands
+robb_stark,Robb Stark,robb_stark@westeros.example,Stark,88,The Riverlands,House Stark · 88 scenes · most often at The Riverlands
+robert_baratheon,Robert Baratheon,robert_baratheon@westeros.example,Baratheon,18,The Crownlands,House Baratheon · 18 scenes · most often at The Crownlands
+robett_glover,Robett Glover,robett_glover@westeros.example,,11,The North,11 scenes · most often at The North
+robin_arryn,Robin Arryn,robin_arryn@westeros.example,,17,The Vale,17 scenes · most often at The Vale
+rodrik_cassel,Rodrik Cassel,rodrik_cassel@westeros.example,,27,The North,27 scenes · most often at The North
+roose_bolton,Roose Bolton,roose_bolton@westeros.example,Bolton,46,The Riverlands,House Bolton · 46 scenes · most often at The Riverlands
+rorge,Rorge,rorge@westeros.example,,3,The Riverlands,3 scenes · most often at The Riverlands
+ros,Ros,ros@westeros.example,,16,The Crownlands,16 scenes · most often at The Crownlands
+roslin_frey,Roslin Frey,roslin_frey@westeros.example,Frey,6,The Riverlands,House Frey · 6 scenes · most often at The Riverlands
+royal_steward,Royal Steward,royal_steward@westeros.example,,6,The Crownlands,6 scenes · most often at The Crownlands
+ryger_rivers,Ryger Rivers,ryger_rivers@westeros.example,,1,The Riverlands,1 scene · most often at The Riverlands
+sailor,Sailor,sailor@westeros.example,,1,Braavos,1 scene · most often at Braavos
+salladhor_saan,Salladhor Saan,salladhor_saan@westeros.example,,4,The Crownlands,4 scenes · most often at The Crownlands
+samwell_tarly,Samwell Tarly,samwell_tarly@westeros.example,,225,The Wall,225 scenes · most often at The Wall
+sandor_clegane,Sandor Clegane,sandor_clegane@westeros.example,,216,The Crownlands,216 scenes · most often at The Crownlands
+sansa_stark,Sansa Stark,sansa_stark@westeros.example,Stark,349,The North,House Stark · 349 scenes · most often at The North
+second_son,Second Son,second_son@westeros.example,,2,Meereen,2 scenes · most often at Meereen
+sellsword_1,Sellsword #1,sellsword_1@westeros.example,,2,Volantis,2 scenes · most often at Volantis
+sellsword_2,Sellsword #2,sellsword_2@westeros.example,,2,Volantis,2 scenes · most often at Volantis
+selyse_baratheon,Selyse Baratheon,selyse_baratheon@westeros.example,Baratheon,20,The Wall,House Baratheon · 20 scenes · most often at The Wall
+septa_moelle,Septa Moelle,septa_moelle@westeros.example,,2,The Crownlands,2 scenes · most often at The Crownlands
+septa_mordane,Septa Mordane,septa_mordane@westeros.example,,9,The Crownlands,9 scenes · most often at The Crownlands
+septa_scolera,Septa Scolera,septa_scolera@westeros.example,,2,The Crownlands,2 scenes · most often at The Crownlands
+septa_unella,Septa Unella,septa_unella@westeros.example,,22,The Crownlands,22 scenes · most often at The Crownlands
+septon,Septon,septon@westeros.example,,2,The Westerlands,2 scenes · most often at The Westerlands
+ser_endrew_tarth,Ser Endrew Tarth,ser_endrew_tarth@westeros.example,,1,The Wall,1 scene · most often at The Wall
+shae,Shae,shae@westeros.example,,59,The Crownlands,59 scenes · most often at The Crownlands
+shagga,Shagga,shagga@westeros.example,,4,The Westerlands,4 scenes · most often at The Westerlands
+shaggydog,Shaggydog,shaggydog@westeros.example,Stark,12,The North,House Stark · 12 scenes · most often at The North
+shireen_baratheon,Shireen Baratheon,shireen_baratheon@westeros.example,Baratheon,18,The Wall,House Baratheon · 18 scenes · most often at The Wall
+silk_king,Silk King,silk_king@westeros.example,,2,Qarth,2 scenes · most often at Qarth
+simpson,Simpson,simpson@westeros.example,,1,The North,1 scene · most often at The North
+singing_lannister_soldier,Singing Lannister Soldier,singing_lannister_soldier@westeros.example,,4,The Crownlands,4 scenes · most often at The Crownlands
+sissy,Sissy,sissy@westeros.example,,8,North of the Wall,8 scenes · most often at North of the Wall
+slaver,Slaver,slaver@westeros.example,,2,Valyria,2 scenes · most often at Valyria
+smalljon_umber,Smalljon Umber,smalljon_umber@westeros.example,,14,The North,14 scenes · most often at The North
+soldier_tom,Soldier Tom,soldier_tom@westeros.example,,1,The Riverlands,1 scene · most often at The Riverlands
+son_of_the_harpy,Son of the Harpy,son_of_the_harpy@westeros.example,,4,Meereen,4 scenes · most often at Meereen
+sorcerer,Sorcerer,sorcerer@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+sparring_boy,Sparring Boy,sparring_boy@westeros.example,,2,The Vale,2 scenes · most often at The Vale
+spice_king,Spice King,spice_king@westeros.example,,3,Qarth,3 scenes · most often at Qarth
+stannis_baratheon,Stannis Baratheon,stannis_baratheon@westeros.example,Baratheon,90,The Crownlands,House Baratheon · 90 scenes · most often at The Crownlands
+stark_messenger,Stark Messenger,stark_messenger@westeros.example,,1,The Westerlands,1 scene · most often at The Westerlands
+stark_soldier,Stark Soldier,stark_soldier@westeros.example,,1,The Riverlands,1 scene · most often at The Riverlands
+steelshanks_walton,Steelshanks Walton,steelshanks_walton@westeros.example,,4,The Riverlands,4 scenes · most often at The Riverlands
+steve,Steve,steve@westeros.example,,2,The Riverlands,2 scenes · most often at The Riverlands
+stevron_frey,Stevron Frey,stevron_frey@westeros.example,Frey,1,The Riverlands,House Frey · 1 scene · most often at The Riverlands
+stiv,Stiv,stiv@westeros.example,,1,The North,1 scene · most often at The North
+stone_man,Stone Man,stone_man@westeros.example,,1,Valyria,1 scene · most often at Valyria
+street_tough_1,Street Tough #1,street_tough_1@westeros.example,,2,Braavos,2 scenes · most often at Braavos
+street_tough_2,Street Tough #2,street_tough_2@westeros.example,,2,Braavos,2 scenes · most often at Braavos
+street_urchin,Street Urchin,street_urchin@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+strong_sam_stone,Strong Sam Stone,strong_sam_stone@westeros.example,,1,The Vale,1 scene · most often at The Vale
+styr,Styr,styr@westeros.example,,15,The Wall,15 scenes · most often at The Wall
+summer,Summer,summer@westeros.example,Stark,41,The North,House Stark · 41 scenes · most often at The North
+syrio_forel,Syrio Forel,syrio_forel@westeros.example,,5,The Crownlands,5 scenes · most often at The Crownlands
+talisa_maegyr,Talisa Maegyr,talisa_maegyr@westeros.example,,41,The Riverlands,41 scenes · most often at The Riverlands
+talla_tarly,Talla Tarly,talla_tarly@westeros.example,Tarly,2,The Reach,House Tarly · 2 scenes · most often at The Reach
+tansy,Tansy,tansy@westeros.example,,1,The North,1 scene · most often at The North
+teela,Teela,teela@westeros.example,,7,The North,7 scenes · most often at The North
+ternesio_terys,Ternesio Terys,ternesio_terys@westeros.example,,3,Braavos,3 scenes · most often at Braavos
+the_bear,The Bear,the_bear@westeros.example,,3,The Riverlands,3 scenes · most often at The Riverlands
+the_crone,The Crone,the_crone@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+the_maiden,The Maiden,the_maiden@westeros.example,,3,The Crownlands,3 scenes · most often at The Crownlands
+the_mother,The Mother,the_mother@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+the_mother_of_dragons,The Mother of Dragons,the_mother_of_dragons@westeros.example,,2,Volantis,2 scenes · most often at Volantis
+the_night_king,The Night King,the_night_king@westeros.example,,62,North of the Wall,62 scenes · most often at North of the Wall
+the_smith,The Smith,the_smith@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+the_stranger,The Stranger,the_stranger@westeros.example,,3,The Crownlands,3 scenes · most often at The Crownlands
+the_tickler,The Tickler,the_tickler@westeros.example,,4,The Riverlands,4 scenes · most often at The Riverlands
+the_waif,The Waif,the_waif@westeros.example,,22,Braavos,22 scenes · most often at Braavos
+the_waif_s_disguise,The Waif's Disguise,the_waif_s_disguise@westeros.example,,3,Braavos,3 scenes · most often at Braavos
+the_warrior,The Warrior,the_warrior@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+thenn_warg,Thenn Warg,thenn_warg@westeros.example,,10,The Wall,10 scenes · most often at The Wall
+theon_greyjoy,Theon Greyjoy,theon_greyjoy@westeros.example,Greyjoy,179,The North,House Greyjoy · 179 scenes · most often at The North
+thin_man,Thin Man,thin_man@westeros.example,,3,Braavos,3 scenes · most often at Braavos
+thoros_of_myr,Thoros of Myr,thoros_of_myr@westeros.example,,47,The Riverlands,47 scenes · most often at The Riverlands
+three_eyed_raven,Three-Eyed Raven,three_eyed_raven@westeros.example,,42,North of the Wall,42 scenes · most often at North of the Wall
+timett,Timett,timett@westeros.example,,4,The Westerlands,4 scenes · most often at The Westerlands
+tobho_mott,Tobho Mott,tobho_mott@westeros.example,,2,The Crownlands,2 scenes · most often at The Crownlands
+todder,Todder,todder@westeros.example,,5,North of the Wall,5 scenes · most often at North of the Wall
+tomard,Tomard,tomard@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+tommen_baratheon,Tommen Baratheon,tommen_baratheon@westeros.example,Baratheon,89,The Crownlands,House Baratheon · 89 scenes · most often at The Crownlands
+tommen_s_manservant,Tommen's Manservant,tommen_s_manservant@westeros.example,,2,The Crownlands,2 scenes · most often at The Crownlands
+tormund_giantsbane,Tormund Giantsbane,tormund_giantsbane@westeros.example,,215,The North,215 scenes · most often at The North
+torrhen_karstark,Torrhen Karstark,torrhen_karstark@westeros.example,,3,The Westerlands,3 scenes · most often at The Westerlands
+tortured_prisoner,Tortured Prisoner,tortured_prisoner@westeros.example,,3,The Riverlands,3 scenes · most often at The Riverlands
+tortured_slave,Tortured Slave,tortured_slave@westeros.example,,1,Astapor,1 scene · most often at Astapor
+trystane_martell,Trystane Martell,trystane_martell@westeros.example,Martell,12,Dorne,House Martell · 12 scenes · most often at Dorne
+tully_bannerman,Tully Bannerman,tully_bannerman@westeros.example,,3,The Riverlands,3 scenes · most often at The Riverlands
+tycho_nestoris,Tycho Nestoris,tycho_nestoris@westeros.example,,6,Braavos,6 scenes · most often at Braavos
+tyene_sand,Tyene Sand,tyene_sand@westeros.example,Martell,27,Dorne,House Martell · 27 scenes · most often at Dorne
+tyrell_guard,Tyrell Guard,tyrell_guard@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+tyrell_lady,Tyrell Lady,tyrell_lady@westeros.example,,2,The Crownlands,2 scenes · most often at The Crownlands
+tyrell_servant,Tyrell Servant,tyrell_servant@westeros.example,,2,The Crownlands,2 scenes · most often at The Crownlands
+tyrion_lannister,Tyrion Lannister,tyrion_lannister@westeros.example,Lannister,544,The Crownlands,House Lannister · 544 scenes · most often at The Crownlands
+tywin_lannister,Tywin Lannister,tywin_lannister@westeros.example,Lannister,91,The Crownlands,House Lannister · 91 scenes · most often at The Crownlands
+unsullied,Unsullied,unsullied@westeros.example,,1,Astapor,1 scene · most often at Astapor
+unsullied_soldier,Unsullied Soldier,unsullied_soldier@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+vala,Vala,vala@westeros.example,,4,Meereen,4 scenes · most often at Meereen
+valyrian_slave,Valyrian Slave,valyrian_slave@westeros.example,,2,Meereen,2 scenes · most often at Meereen
+vance_corbray,Vance Corbray,vance_corbray@westeros.example,,2,The Vale,2 scenes · most often at The Vale
+vardis_egen,Vardis Egen,vardis_egen@westeros.example,,4,The Vale,4 scenes · most often at The Vale
+varly,Varly,varly@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+vayon_poole,Vayon Poole,vayon_poole@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+village_woman,Village Woman,village_woman@westeros.example,,1,The North,1 scene · most often at The North
+violet,Violet,violet@westeros.example,,2,The North,2 scenes · most often at The North
+viserion,Viserion,viserion@westeros.example,Targaryen,71,The North,House Targaryen · 71 scenes · most often at The North
+viserys_targaryen,Viserys Targaryen,viserys_targaryen@westeros.example,Targaryen,12,Vaes Dothrak,House Targaryen · 12 scenes · most often at Vaes Dothrak
+volantene_whore_1,Volantene Whore #1,volantene_whore_1@westeros.example,,1,Volantis,1 scene · most often at Volantis
+volantene_whore_2,Volantene Whore #2,volantene_whore_2@westeros.example,,1,Volantis,1 scene · most often at Volantis
+volantene_whore_3,Volantene Whore #3,volantene_whore_3@westeros.example,,1,Volantis,1 scene · most often at Volantis
+volantene_whore_4,Volantene Whore #4,volantene_whore_4@westeros.example,,1,Volantis,1 scene · most often at Volantis
+volantene_whore_5,Volantene Whore #5,volantene_whore_5@westeros.example,,1,Volantis,1 scene · most often at Volantis
+walda_bolton,Walda Bolton,walda_bolton@westeros.example,Bolton,6,The North,House Bolton · 6 scenes · most often at The North
+walder_frey,Walder Frey,walder_frey@westeros.example,Frey,25,The Riverlands,House Frey · 25 scenes · most often at The Riverlands
+wallen,Wallen,wallen@westeros.example,,1,The North,1 scene · most often at The North
+warlock,Warlock,warlock@westeros.example,,1,Astapor,1 scene · most often at Astapor
+waymar_royce,Waymar Royce,waymar_royce@westeros.example,,5,North of the Wall,5 scenes · most often at North of the Wall
+wendel_manderly,Wendel Manderly,wendel_manderly@westeros.example,,3,The Riverlands,3 scenes · most often at The Riverlands
+westerosi_trader,Westerosi Trader,westerosi_trader@westeros.example,,1,Braavos,1 scene · most often at Braavos
+white_rat,White Rat,white_rat@westeros.example,,2,Meereen,2 scenes · most often at Meereen
+white_walker,White Walker,white_walker@westeros.example,,46,North of the Wall,46 scenes · most often at North of the Wall
+whore,Whore,whore@westeros.example,,1,Braavos,1 scene · most often at Braavos
+whore_1,Whore #1,whore_1@westeros.example,,2,The Crownlands,2 scenes · most often at The Crownlands
+whore_2,Whore #2,whore_2@westeros.example,,2,The Crownlands,2 scenes · most often at The Crownlands
+whore_3,Whore #3,whore_3@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+whore_4,Whore #4,whore_4@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+whore_5,Whore #5,whore_5@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+whore_6,Whore #6,whore_6@westeros.example,,1,The Crownlands,1 scene · most often at The Crownlands
+wight_wildling_girl,Wight Wildling Girl,wight_wildling_girl@westeros.example,,3,North of the Wall,3 scenes · most often at North of the Wall
+wildling_rioter,Wildling Rioter,wildling_rioter@westeros.example,,1,The North,1 scene · most often at The North
+will,Will,will@westeros.example,,12,North of the Wall,12 scenes · most often at North of the Wall
+willa,Willa,willa@westeros.example,,4,North of the Wall,4 scenes · most often at North of the Wall
+willem_lannister,Willem Lannister,willem_lannister@westeros.example,Lannister,2,The Riverlands,House Lannister · 2 scenes · most often at The Riverlands
+wine_merchant,Wine Merchant,wine_merchant@westeros.example,,3,Vaes Dothrak,3 scenes · most often at Vaes Dothrak
+winter_town_man,Winter Town Man,winter_town_man@westeros.example,,1,The North,1 scene · most often at The North
+winterfell_boy,Winterfell Boy,winterfell_boy@westeros.example,,4,The North,4 scenes · most often at The North
+winterfell_shepherd,Winterfell Shepherd,winterfell_shepherd@westeros.example,,2,The North,2 scenes · most often at The North
+wounded_lannister_soldier,Wounded Lannister Soldier,wounded_lannister_soldier@westeros.example,,2,The Westerlands,2 scenes · most often at The Westerlands
+wun_wun,Wun Wun,wun_wun@westeros.example,,23,The North,23 scenes · most often at The North
+wun_wun_wight,Wun Wun Wight,wun_wun_wight@westeros.example,,4,The North,4 scenes · most often at The North
+wyllis,Wyllis,wyllis@westeros.example,,12,The North,12 scenes · most often at The North
+wyman_manderly,Wyman Manderly,wyman_manderly@westeros.example,,2,The North,2 scenes · most often at The North
+xaro_xhoan_daxos,Xaro Xhoan Daxos,xaro_xhoan_daxos@westeros.example,,12,Qarth,12 scenes · most often at Qarth
+yara_greyjoy,Yara Greyjoy,yara_greyjoy@westeros.example,Greyjoy,54,The Iron Islands,House Greyjoy · 54 scenes · most often at The Iron Islands
+yezzan_zo_qaggaz,Yezzan zo Qaggaz,yezzan_zo_qaggaz@westeros.example,,13,Meereen,13 scenes · most often at Meereen
+ygritte,Ygritte,ygritte@westeros.example,,68,North of the Wall,68 scenes · most often at North of the Wall
+yohn_royce,Yohn Royce,yohn_royce@westeros.example,,41,The North,41 scenes · most often at The North
+yoren,Yoren,yoren@westeros.example,,16,The Crownlands,16 scenes · most often at The Crownlands
+young_benjen_stark,Young Benjen Stark,young_benjen_stark@westeros.example,Stark,5,The North,House Stark · 5 scenes · most often at The North
+young_braavosi,Young Braavosi,young_braavosi@westeros.example,,1,Braavos,1 scene · most often at Braavos
+young_cersei_lannister,Young Cersei Lannister,young_cersei_lannister@westeros.example,Lannister,2,The Westerlands,House Lannister · 2 scenes · most often at The Westerlands
+young_lyanna_stark,Young Lyanna Stark,young_lyanna_stark@westeros.example,Stark,3,The North,House Stark · 3 scenes · most often at The North
+young_nan,Young Nan,young_nan@westeros.example,,5,The North,5 scenes · most often at The North
+young_ned_stark,Young Ned Stark,young_ned_stark@westeros.example,Stark,14,Dorne,House Stark · 14 scenes · most often at Dorne
+young_rodrik_cassel,Young Rodrik Cassel,young_rodrik_cassel@westeros.example,,4,The North,4 scenes · most often at The North
+yunkai_i_whore,Yunkai'i Whore,yunkai_i_whore@westeros.example,,1,Yunkai,1 scene · most often at Yunkai
+zanrush,Zanrush,zanrush@westeros.example,,2,Meereen,2 scenes · most often at Meereen

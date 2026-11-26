@@ -14,6 +14,7 @@ Outputs:
   mentioned.csv      speaker -> named character            (signal 3: name mentions)
   family.csv         parent / sibling / spouse links        (bonus profile data)
   follows_seed.csv   starting FOLLOWS edges built from strong ties
+  synthetic_*.csv    generated users / follows / home regions (see synthetic.py) to reach 1,000+ nodes
 """
 
 import csv
@@ -22,12 +23,16 @@ import os
 import re
 import sys
 
+import synthetic
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DEFAULT_DATA_DIR = os.path.join(ROOT, "data", "raw", "game-of-thrones", "data")
 DEFAULT_OUT_DIR = os.path.join(ROOT, "data", "csv")
 
 # ---------------- settings (tune these) ----------------
-MIN_SCENES = 10        # keep characters with at least this many scenes (10 -> ~157 users)
+MIN_SCENES = 1         # keep characters with at least this many scenes (1 = every character, 577 users)
+ALIAS_MIN_SCENES = 10  # only characters with this many scenes get an automatic first-word alias
+                       # (stops extras like "Citadel Maester" or "Young Cersei" hijacking names)
 STRONG_TIE = 20        # shared scenes needed for a mutual seed follow
 WEAK_TIE = 5           # shared scenes needed for a one-way seed follow (minor -> major)
 COMMON_WORD_LIMIT = 20 # alias skipped if the word appears in lowercase this often (e.g. "will", "night")
@@ -64,6 +69,9 @@ def make_username(name):
     # "Jon Snow" -> "jon_snow"
     username = re.sub(r"[^a-z0-9]+", "_", name.lower())
     return username.strip("_")
+
+
+u = make_username
 
 
 def write_csv(path, header, rows):
@@ -140,7 +148,7 @@ def build_scene_signals(episodes, users):
 
 
 # Step 3: build the alias table (word -> character) for name mentions
-def build_aliases(script, users):
+def build_aliases(script, users, scene_count):
     lowercase_count = {}
     for ep in script:
         for line in ep["text"]:
@@ -149,6 +157,8 @@ def build_aliases(script, users):
 
     first_word = {}   # word -> list of characters it could mean
     for name in users:
+        if scene_count[name] < ALIAS_MIN_SCENES:
+            continue
         parts = name.split()
         i = 0
         while i < len(parts) - 1 and parts[i] in TITLES:
@@ -234,7 +244,6 @@ def seed_follows(pairs):
 # Step 7: write everything out
 def write_all(out_dir, users, scene_count, house, location_names, pairs, visits, mentions, family, follows):
     os.makedirs(out_dir, exist_ok=True)
-    u = make_username
 
     top_location = {}
     for (name, location), (count, _season) in visits.items():
@@ -248,13 +257,15 @@ def write_all(out_dir, users, scene_count, house, location_names, pairs, visits,
         bio_parts = []
         if h:
             bio_parts.append("House " + h)
-        bio_parts.append(str(scene_count[name]) + " scenes")
+        bio_parts.append(f"{scene_count[name]} scene{'' if scene_count[name] == 1 else 's'}")
         if place:
             bio_parts.append("most often at " + place)
-        user_rows.append([u(name), name, h, scene_count[name], place, " · ".join(bio_parts)])
+        # email is SYNTHETIC: the dataset has none; .example is a reserved, never-real domain
+        user_rows.append([u(name), name, u(name) + "@westeros.example", h, scene_count[name], place,
+                          " · ".join(bio_parts)])
 
     write_csv(os.path.join(out_dir, "users.csv"),
-              ["username", "name", "house", "scene_count", "top_location", "bio"], user_rows)
+              ["username", "name", "email", "house", "scene_count", "top_location", "bio"], user_rows)
     write_csv(os.path.join(out_dir, "locations.csv"), ["name"],
               [[loc] for loc in sorted(location_names)])
     write_csv(os.path.join(out_dir, "co_present.csv"), ["user_a", "user_b", "count", "first_season"],
@@ -269,15 +280,25 @@ def write_all(out_dir, users, scene_count, house, location_names, pairs, visits,
               [[u(a), u(b), s] for a, b, s in sorted(follows)])
 
 
+def scene_count_by_username(users, scene_count):
+    return {u(n): scene_count[n] for n in users}
+
+
+def follows_by_username(follows):
+    return {(u(a), u(b)) for a, b, _season in follows}
+
+
 def run(data_dir=DEFAULT_DATA_DIR, out_dir=DEFAULT_OUT_DIR):
     episodes, script, characters = load_raw(data_dir)
     users, scene_count = pick_users(episodes)
     pairs, visits, location_names = build_scene_signals(episodes, users)
-    alias = build_aliases(script, users)
+    alias = build_aliases(script, users, scene_count)
     mentions = build_mentions(script, users, alias)
     family, house = build_family(characters, users)
     follows = seed_follows(pairs)
     write_all(out_dir, users, scene_count, house, location_names, pairs, visits, mentions, family, follows)
+    synthetic.generate(out_dir, [u(n) for n in users], scene_count_by_username(users, scene_count),
+                       sorted(location_names), follows_by_username(follows))
 
     # Step 8: quick sanity checks (eyeball these every run)
     print("\nusers:", len(users), "| aliases:", len(alias))

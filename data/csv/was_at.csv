@@ -1,22 +1,54 @@
 username,location,count,first_season
+addam_marbrand,The Riverlands,1,1
+adele_smyth_kennedy,The North,1,7
+adrack_humble,The North,3,4
+aeron_greyjoy,The Iron Islands,9,6
+aerys_targaryen,North of the Wall,3,6
+aggo,The Red Waste,1,2
+akho,The Dothraki Sea,3,6
+akho,Vaes Dothrak,4,6
 alliser_thorne,The Wall,51,1
+alton_lannister,The Crownlands,1,2
+alton_lannister,The Riverlands,1,2
+alton_lannister,The Westerlands,3,2
 alys_karstark,The North,13,7
+amory_lorch,The Riverlands,6,2
+anara,Braavos,1,5
 anguy,The Riverlands,13,3
+anya_waynwood,The Vale,3,4
+archmaester_ebrose,The Reach,7,7
 areo_hotah,Dorne,15,5
+armeca,The Crownlands,5,1
+arthur,The Crownlands,8,6
+arthur_dayne,Dorne,2,6
 arya_stark,Braavos,85,5
 arya_stark,The Crownlands,61,1
 arya_stark,The North,83,1
 arya_stark,The Riverlands,114,1
 arya_stark,The Sunset Sea,8,8
 arya_stark,The Vale,9,4
+ash,Meereen,1,6
+axell_florent,The Crownlands,1,4
+aya,Braavos,1,5
+baby_jon_snow,Dorne,1,6
 baby_sam,North of the Wall,10,3
 baby_sam,The North,6,7
 baby_sam,The Reach,12,6
 baby_sam,The Wall,20,3
+balon_greyjoy,The Iron Islands,8,2
+bannen,North of the Wall,1,3
+baratheon_general,The North,7,5
+baratheon_soldier_1,The North,2,5
+baratheon_soldier_2,The North,1,5
+barra,The Crownlands,1,2
 barristan_selmy,Astapor,13,3
 barristan_selmy,Meereen,38,4
 barristan_selmy,The Crownlands,10,1
 barristan_selmy,Yunkai,16,3
+bathhouse_prostitute,Braavos,2,4
+bear_island_maester,The North,2,6
+beggar_woman,The Crownlands,1,5
+belicho_paenymion,Meereen,5,6
 benjen_stark,North of the Wall,6,6
 benjen_stark,The North,5,1
 benjen_stark,The Wall,3,1
@@ -25,15 +57,33 @@ beric_dondarrion,The Crownlands,1,1
 beric_dondarrion,The North,27,8
 beric_dondarrion,The Riverlands,16,3
 beric_dondarrion,The Wall,12,7
+bernadette,The Crownlands,1,7
 bianca,Braavos,10,6
+biter,The Riverlands,3,2
+black_jack_bulwer,The Wall,2,4
+black_lorren,The Iron Islands,1,2
+black_lorren,The North,4,2
 black_walder_rivers,The Riverlands,10,3
+boat_commander,The Crownlands,1,3
 bobono,Braavos,12,6
+bolton_general,The North,1,6
+bolton_guard,The North,2,4
+bolton_officer,The North,2,6
+bolton_soldier,The North,2,6
 bowen_marsh,The Wall,12,5
+braavosi_captain,Braavos,1,5
+braavosi_madam,Braavos,1,5
+braavosi_theatre_server,Braavos,1,6
+braavosi_theatre_sound_artist,Braavos,3,6
+braavosi_woman_1,Braavos,1,6
+braavosi_woman_2,Braavos,1,6
 bran_stark,Dorne,8,6
 bran_stark,North of the Wall,73,4
 bran_stark,The Crownlands,6,8
 bran_stark,The North,156,1
 bran_stark,The Wall,5,3
+brant,The Wall,3,5
+brea,Braavos,1,5
 brienne_of_tarth,The Crownlands,32,3
 brienne_of_tarth,The North,82,5
 brienne_of_tarth,The Riverlands,33,2
@@ -49,7 +99,16 @@ bronn,The Riverlands,16,1
 bronn,The Stormlands,1,5
 bronn,The Vale,6,1
 bronn,The Westerlands,2,1
+brothel_child_1,Braavos,1,5
+brothel_child_2,Braavos,1,5
+brothel_customer,The Crownlands,3,2
+brothel_guard,Volantis,1,5
+brother_ray,The Riverlands,8,6
+brusco,Braavos,1,5
 brynden_tully,The Riverlands,22,3
+camello,Braavos,8,6
+captain_of_the_archers,The Crownlands,9,2
+captain_s_daughter,The Sunset Sea,1,2
 catelyn_stark,North of the Wall,1,6
 catelyn_stark,The Crownlands,4,1
 catelyn_stark,The North,20,1
@@ -57,10 +116,24 @@ catelyn_stark,The Riverlands,45,1
 catelyn_stark,The Stormlands,7,2
 catelyn_stark,The Vale,6,1
 catelyn_stark,The Westerlands,10,2
+catspaw_assassin,The North,1,1
 cersei_lannister,The Crownlands,323,1
 cersei_lannister,The North,6,1
 cersei_lannister,The Riverlands,1,1
+chella,The Riverlands,1,1
+chella,The Westerlands,1,1
+citadel_maester,The Reach,2,6
+clarenzo,Braavos,8,6
+clea,Volantis,3,5
+cley_cerwyn,The North,2,6
+colen_of_greenpools,The Stormlands,1,2
+cooper,The Wall,7,4
 craster,North of the Wall,11,2
+craster_s_wife,North of the Wall,1,3
+craster_s_wife_2,North of the Wall,1,4
+craster_s_wife_3,North of the Wall,1,4
+craster_s_younger_wife,North of the Wall,1,3
+craya,The Crownlands,2,8
 daario_naharis,Meereen,51,4
 daario_naharis,The Dothraki Sea,4,6
 daario_naharis,Vaes Dothrak,8,6
@@ -82,21 +155,42 @@ daenerys_targaryen,Vaes Dothrak,28,1
 daenerys_targaryen,Yunkai,24,3
 dagmer_cleftjaw,The Iron Islands,3,2
 dagmer_cleftjaw,The North,13,2
+daisy,The Crownlands,4,2
 davos_seaworth,Braavos,4,4
 davos_seaworth,North of the Wall,2,4
 davos_seaworth,The Crownlands,103,2
 davos_seaworth,The North,99,5
 davos_seaworth,The Stormlands,6,2
 davos_seaworth,The Wall,42,4
+denys_mallister,The Wall,2,5
+derek,The Wall,3,5
+desmond_crakehall,The Crownlands,1,3
+despondent_man,Braavos,2,5
 dickon_tarly,The Crownlands,9,7
 dickon_tarly,The Reach,4,6
+dim_dalba,North of the Wall,1,5
+dim_dalba,The North,2,6
+dirah,The Crownlands,2,8
 dongo_the_giant,North of the Wall,12,3
+donnel_hill,The Wall,7,4
+donnel_waynwood,The Vale,2,4
 dontos_hollard,The Crownlands,12,2
 doran_martell,Dorne,14,5
 doreah,Qarth,5,2
 doreah,The Dothraki Sea,5,1
 doreah,The Red Waste,4,1
 doreah,Vaes Dothrak,6,1
+dornish_lord,The Crownlands,3,8
+dothraki_bloodrider_1,The Dothraki Sea,1,6
+dothraki_bloodrider_1,Vaes Dothrak,4,6
+dothraki_bloodrider_2,The Dothraki Sea,1,6
+dothraki_bloodrider_2,Vaes Dothrak,4,6
+dothraki_crone,Vaes Dothrak,1,1
+dothraki_man_having_sex,Vaes Dothrak,1,6
+dothraki_widow_1,Vaes Dothrak,2,6
+dothraki_widow_2,Vaes Dothrak,2,6
+dothraki_woman_having_sex,Vaes Dothrak,1,6
+drennan,The North,2,2
 drogon,Astapor,3,3
 drogon,Meereen,14,4
 drogon,North of the Wall,8,6
@@ -110,6 +204,9 @@ drogon,The Summer Sea,4,3
 drogon,Vaes Dothrak,2,1
 drogon,Valyria,1,5
 drogon,Yunkai,5,3
+drowned_priest,The Iron Islands,1,2
+dwarf_hunter_1,The Crownlands,1,5
+dwarf_hunter_2,The Crownlands,1,5
 eddard_stark,North of the Wall,2,4
 eddard_stark,The Crownlands,52,1
 eddard_stark,The North,13,1
@@ -119,17 +216,43 @@ eddison_tollett,The North,17,8
 eddison_tollett,The Wall,62,4
 edmure_tully,The Crownlands,3,8
 edmure_tully,The Riverlands,27,3
+elder_meereen_slave,Meereen,2,4
+eldrick_sarsfield,The Crownlands,1,3
+eleanor,The Crownlands,9,8
+eleanor_s_daughter,The Crownlands,9,8
 ellaria_sand,Dorne,18,5
 ellaria_sand,The Crownlands,26,4
 ellaria_sand,The Narrow Sea,3,7
 euron_greyjoy,The Crownlands,38,7
 euron_greyjoy,The Iron Islands,8,6
 euron_greyjoy,The Narrow Sea,9,7
+eyrie_guard,The Vale,3,5
+faceless_man,Braavos,4,5
+faith_militant_1,The Crownlands,3,5
+faith_militant_2,The Crownlands,2,5
+farlen,The North,1,2
+farmer_hamlet,The Riverlands,4,4
+farmer_s_daughter,The Riverlands,4,4
+fennesz,Meereen,1,4
+fergus,The North,3,8
+first_mate,The North,4,4
+frances,The Crownlands,6,6
+frey_guard,The Riverlands,2,3
+frey_soldier_1,The Riverlands,1,3
+frey_soldier_2,The Riverlands,1,3
+fruit_vendor,The Crownlands,1,3
+gared,North of the Wall,5,1
+gared,The Wall,1,1
+gatins,The Riverlands,5,6
 gendry,North of the Wall,18,7
 gendry,The Crownlands,19,1
 gendry,The North,35,8
 gendry,The Riverlands,36,2
 gendry,The Wall,4,7
+genna,The Crownlands,1,3
+gerard,The Stormlands,1,2
+gerold_hightower,Dorne,1,6
+ghita,Braavos,6,5
 ghost,North of the Wall,14,1
 ghost,The North,16,1
 ghost,The Wall,21,1
@@ -137,9 +260,23 @@ gilly,North of the Wall,14,2
 gilly,The North,17,7
 gilly,The Reach,14,6
 gilly,The Wall,36,3
+goatherd,Meereen,3,4
+goatherd_s_son,Meereen,1,4
+goldcloak,The Riverlands,1,2
+gordy,The North,1,5
 grand_maester_pycelle,The Crownlands,72,1
+great_master_1,Meereen,3,4
+great_master_2,Meereen,3,5
+great_master_3,Meereen,3,5
+great_master_4,Meereen,3,5
+great_master_5,Meereen,3,5
+great_master_6,Meereen,3,5
+great_master_7,Meereen,3,5
+greatjon_umber,The North,4,1
+greatjon_umber,The Riverlands,4,1
 gregor_clegane,The Crownlands,86,1
 gregor_clegane,The Riverlands,5,2
+greizhen_mo_ullhor,Astapor,3,3
 grenn,North of the Wall,25,2
 grenn,The North,1,1
 grenn,The Wall,39,1
@@ -152,7 +289,16 @@ grey_worm,The North,40,8
 grey_worm,The Summer Sea,1,6
 grey_worm,The Westerlands,4,7
 grey_worm,Yunkai,12,3
+guymon,The Wall,2,4
 hallyne,The Crownlands,10,2
+handmaid,The Crownlands,7,2
+handmaid,The Riverlands,2,6
+harald_karstark,The North,9,6
+harrag,The Crownlands,3,7
+harrag,The Narrow Sea,1,7
+harry_strickland,The Crownlands,7,8
+henk,The North,3,7
+high_priestess,Vaes Dothrak,7,6
 high_septon,Dorne,1,7
 high_septon,The Crownlands,21,2
 high_sparrow,The Crownlands,37,5
@@ -160,16 +306,34 @@ hizdahr_zo_loraq,Meereen,29,4
 hodor,North of the Wall,45,4
 hodor,The North,33,1
 hodor,The Wall,5,3
+hog_farmer,The Riverlands,1,3
+hoster_tully,The Riverlands,1,3
 hot_pie,The Crownlands,1,1
 hot_pie,The Riverlands,25,2
+howland_reed,Dorne,3,6
+hugh_of_the_vale,The Crownlands,3,1
+iggo,Vaes Dothrak,1,6
+illyrio_mopatis,Pentos,3,1
+illyrio_mopatis,The Crownlands,1,1
 ilyn_payne,North of the Wall,1,6
 ilyn_payne,The Crownlands,9,1
 ilyn_payne,The Riverlands,2,1
+inn_waitress,The Vale,1,5
+innkeeper,The Riverlands,2,4
+innkeeper_s_daughter,The Riverlands,1,4
+ironborn_1,The Iron Islands,2,6
+ironborn_2,The Iron Islands,2,6
+ironborn_3,The Iron Islands,2,6
+ironborn_abusing_a_volantene_whore,Volantis,1,6
+ironborn_at_brothel,Volantis,1,6
+ironborn_in_skiff,The North,1,4
 irri,Qarth,3,2
 irri,The Dothraki Sea,7,1
 irri,The Red Waste,3,1
 irri,Vaes Dothrak,6,1
 izembaro,Braavos,11,6
+jacks,The Westerlands,3,2
+jafer_flowers,The Wall,1,1
 jaime_lannister,Dorne,19,5
 jaime_lannister,North of the Wall,1,6
 jaime_lannister,The Crownlands,165,1
@@ -182,20 +346,26 @@ janos_slynt,The Crownlands,10,1
 janos_slynt,The Wall,26,4
 jaqen_h_ghar,Braavos,27,5
 jaqen_h_ghar,The Riverlands,10,2
+jaqen_s_disguise,The Riverlands,1,2
+jaremy_rykker,The Wall,1,1
 jeor_mormont,North of the Wall,19,2
 jeor_mormont,The Wall,11,1
+jhiqui,The Dothraki Sea,2,1
 joffrey_baratheon,The Crownlands,113,1
 joffrey_baratheon,The North,3,1
 joffrey_baratheon,The Riverlands,3,1
+johnna,North of the Wall,3,5
 jojen_reed,North of the Wall,21,4
 jojen_reed,The North,18,3
 jojen_reed,The Wall,5,3
+jon_arryn,The Crownlands,1,1
 jon_snow,North of the Wall,129,1
 jon_snow,The Crownlands,119,7
 jon_snow,The Narrow Sea,3,7
 jon_snow,The North,194,1
 jon_snow,The Shivering Sea,1,7
 jon_snow,The Wall,186,1
+jonos_bracken,The Riverlands,1,1
 jorah_mormont,Astapor,15,3
 jorah_mormont,Meereen,42,4
 jorah_mormont,North of the Wall,29,7
@@ -215,27 +385,94 @@ jorah_mormont,Yunkai,18,3
 jory_cassel,The Crownlands,13,1
 jory_cassel,The North,3,1
 jory_cassel,The Riverlands,2,1
+joss,Braavos,2,5
+joss,The Crownlands,1,1
 joyeuse_erenford,The Riverlands,10,1
 karl_tanner,North of the Wall,14,3
+karsi,North of the Wall,9,5
+karstark_lookout,The Riverlands,1,3
+kayla,The Crownlands,2,3
+kegs,The Wall,2,4
+kesh,Meereen,1,6
 kevan_lannister,The Crownlands,20,5
 kevan_lannister,The Riverlands,3,1
 kevan_lannister,The Westerlands,1,1
+kevin_eldon,The Crownlands,2,7
+khal_brozho,Vaes Dothrak,4,6
 khal_drogo,Pentos,3,1
 khal_drogo,Qarth,1,2
 khal_drogo,The Dothraki Sea,6,1
 khal_drogo,The Red Waste,6,1
 khal_drogo,Vaes Dothrak,6,1
+khal_forzho,Vaes Dothrak,4,6
+khal_moro,The Dothraki Sea,1,6
+khal_moro,Vaes Dothrak,5,6
+khal_qorro,Vaes Dothrak,4,6
+khal_rhalko,Vaes Dothrak,4,6
+king_balon_greyjoy_dwarf,The Crownlands,1,4
+king_joffrey_baratheon_dwarf,The Crownlands,1,4
+king_renly_baratheon_dwarf,The Crownlands,1,4
+king_robb_stark_dwarf,The Crownlands,1,4
+king_stannis_baratheon_dwarf,The Crownlands,1,4
+king_s_landing_baker,The Crownlands,1,1
+king_s_landing_boaster,The Crownlands,2,6
+king_s_landing_drunkard,The Crownlands,1,5
+king_s_landing_flasher_1,The Crownlands,1,5
+king_s_landing_flasher_2,The Crownlands,1,5
+king_s_landing_rioter_1,The Crownlands,4,2
+king_s_landing_rioter_2,The Crownlands,4,2
+king_s_landing_rioter_3,The Crownlands,4,2
+king_s_landing_tailor,The Crownlands,2,3
+king_s_landing_whore,The Crownlands,3,4
+kinvara,Meereen,1,6
+kitty_frey,The Riverlands,4,6
+koner,The North,3,7
 kovarro,Qarth,14,2
 kovarro,The Red Waste,2,2
+kraznys_mo_nakloz,Astapor,5,3
+lady,The North,1,1
+lady,The Riverlands,3,1
 lady_crane,Braavos,15,6
 lancel_lannister,The Crownlands,50,1
+lannister_captain,The Crownlands,1,6
+lannister_guard,The Crownlands,1,8
+lannister_guard,The Riverlands,2,2
+lannister_guard,The Westerlands,1,2
+lannister_guard_1,Braavos,2,5
+lannister_guard_2,Braavos,2,5
+lannister_messenger,The Westerlands,1,1
+lannister_scout,The North,2,1
+lannister_soldier,The Riverlands,2,6
+laurence_spellman,The Crownlands,2,7
+lead_dornish_guard,Dorne,1,5
+lead_kingsguard,The Crownlands,1,5
 leaf,North of the Wall,21,4
+lem_lemoncloak,The Riverlands,2,6
+leo_lefford,The Riverlands,1,1
+lhara,Braavos,4,4
+little_bird,Meereen,1,4
+little_bird,Vaes Dothrak,1,1
+little_bird_3,The Crownlands,6,6
+little_bird_4,The Crownlands,5,6
+little_bird_5,The Crownlands,5,6
+little_bird_6,The Crownlands,5,6
+little_bird_7,The Crownlands,5,6
+loboda,North of the Wall,6,5
 locke,North of the Wall,8,4
 locke,The North,3,4
 locke,The Riverlands,17,3
 locke,The Wall,6,4
+lollys_stokeworth,The Crownlands,2,5
+lommy_greenhands,The Crownlands,1,1
+lommy_greenhands,The Riverlands,5,2
 loras_tyrell,The Crownlands,50,1
 loras_tyrell,The Stormlands,5,2
+lord_1,The Crownlands,3,8
+lord_2,The Crownlands,3,8
+lord_3,The Crownlands,3,8
+lord_4,The Crownlands,3,8
+lord_blackmont,The Crownlands,1,4
+lord_portan,The North,1,2
 lord_varys,Dorne,1,6
 lord_varys,Meereen,17,5
 lord_varys,Pentos,3,5
@@ -243,42 +480,111 @@ lord_varys,The Crownlands,126,1
 lord_varys,The North,39,8
 lord_varys,The Summer Sea,1,6
 lord_varys,Volantis,7,5
+lordsport_dockhand,The Iron Islands,1,2
 lothar_frey,The Riverlands,15,3
+loyal_night_s_watchman_1,The Wall,7,6
+loyal_night_s_watchman_2,The Wall,7,6
 lyanna_mormont,The North,36,6
+lyanna_stark,Dorne,4,6
 lysa_arryn,The Vale,10,1
 mace_tyrell,Braavos,4,5
 mace_tyrell,The Crownlands,59,4
 maester_aemon,The Wall,18,1
+maester_caleotte,Dorne,1,6
+maester_cressen,The Crownlands,3,2
 maester_luwin,The North,29,1
+maester_sandhu,The Reach,2,7
 maester_wolkan,The North,15,6
 mag_the_mighty,North of the Wall,13,4
 mag_the_mighty,The Wall,2,4
+mag_the_mighty_wight,North of the Wall,1,7
+maggy,The Westerlands,1,5
+mago,The Dothraki Sea,2,1
+malko,Meereen,1,5
+malko,Valyria,2,5
+mallister_supporter,The Wall,1,5
+man_of_the_nightswatch,North of the Wall,1,3
 mance_rayder,North of the Wall,9,3
 mance_rayder,The Wall,8,5
+mandon_moore,The Crownlands,7,2
+manservant,Meereen,1,4
+marei,The Crownlands,8,3
 margaery_tyrell,The Crownlands,120,2
 margaery_tyrell,The Stormlands,5,2
+margaery_tyrell_mummer,Braavos,7,6
+margaery_s_handmaiden,The Crownlands,3,3
+marillion,The Crownlands,1,1
+marillion,The Riverlands,1,1
+marillion,The Vale,1,1
+martha,The Crownlands,1,8
+martyn_lannister,The Riverlands,2,3
+master_torturer,The North,4,3
 matthos_seaworth,The Crownlands,12,2
 meera_reed,North of the Wall,50,4
 meera_reed,The North,16,3
 meera_reed,The Wall,5,3
+meereenese_homeless_mother,Meereen,1,6
+melara_hetherspoon,The Westerlands,2,5
+melessa_tarly,The Reach,2,6
 melisandre,North of the Wall,1,6
 melisandre,The Crownlands,24,2
 melisandre,The North,38,5
 melisandre,The Riverlands,3,3
 melisandre,The Stormlands,3,2
 melisandre,The Wall,28,4
+merchant_captain,Dorne,1,5
+merchant_captain,The Stormlands,1,5
+mero,Yunkai,3,3
+merry_frey,The Riverlands,1,3
 meryn_trant,Braavos,10,5
 meryn_trant,The Crownlands,32,1
+mhaegen,The Crownlands,2,1
+mirelle,The Crownlands,2,3
+mirri_maz_duur,The Dothraki Sea,2,1
+mirri_maz_duur,The Red Waste,5,1
 missandei,Astapor,10,3
 missandei,Meereen,75,4
 missandei,The Crownlands,59,7
 missandei,The North,24,8
 missandei,The Summer Sea,1,6
 missandei,Yunkai,15,3
+mole_s_town_madam,The Wall,1,4
+mole_s_town_whore,The Wall,3,4
+morag,North of the Wall,3,4
+mord,The Vale,4,1
+morgan,The Crownlands,2,4
+morgan,The Riverlands,4,6
+morgan_s_friend,The Crownlands,2,4
+moro_s_wife_1,The Dothraki Sea,1,6
+moro_s_wife_2,The Dothraki Sea,1,6
+mossador,Meereen,7,4
+mully,The Wall,2,4
+mummer_2,Braavos,3,6
+mummer_3,Braavos,3,6
+mummer_4,Braavos,3,6
+musician_1,Braavos,3,6
+musician_1,The Crownlands,3,4
+musician_2,Braavos,3,6
+musician_2,The Crownlands,3,4
+musician_3,Braavos,3,6
+musician_3,The Crownlands,3,4
+musician_4,Braavos,3,6
+musician_5,Braavos,3,6
+mycah,The Riverlands,2,1
 myranda,The North,15,3
 myrcella_baratheon,Dorne,14,5
 myrcella_baratheon,The Crownlands,9,1
 myrcella_baratheon,The North,2,1
+ned_umber,The North,7,7
+newborn_bolton,The North,1,6
+night_s_watchman,The Wall,2,4
+night_s_watchman_1,The Wall,1,6
+night_s_watchman_2,The Wall,2,6
+northern_guard,The Crownlands,1,8
+northern_lord,The North,1,2
+northman_rioter,The North,1,6
+nymeria,The North,2,1
+nymeria,The Riverlands,3,1
 nymeria_sand,Dorne,14,5
 nymeria_sand,The Crownlands,1,6
 nymeria_sand,The Narrow Sea,6,7
@@ -286,47 +592,79 @@ obara_sand,Dorne,14,5
 obara_sand,The Crownlands,1,6
 obara_sand,The Narrow Sea,5,7
 oberyn_martell,The Crownlands,38,4
+old_man,The North,6,3
+old_man,The Riverlands,1,4
+old_nan,The North,2,1
+old_woman,The North,3,5
+old_woman_prisoner,The Riverlands,2,2
 olenna_tyrell,Dorne,2,6
 olenna_tyrell,The Crownlands,62,3
 olenna_tyrell,The Reach,2,7
 olly,The Wall,45,4
+olly_s_mother,The Wall,1,4
 olyvar,The Crownlands,18,3
 orell,North of the Wall,5,3
 orell,The North,11,3
 orell,The Wall,2,3
+ornela,Vaes Dothrak,7,6
+orphan_kid,The Crownlands,1,3
 osha,The North,42,1
 othell_yarwyck,North of the Wall,1,1
 othell_yarwyck,The Wall,20,1
+othor,The Wall,2,1
+oznak_zo_pahl,Meereen,7,4
 petyr_baelish,The Crownlands,53,1
 petyr_baelish,The North,37,5
 petyr_baelish,The Riverlands,1,2
 petyr_baelish,The Stormlands,7,2
 petyr_baelish,The Vale,22,4
 petyr_baelish,The Wall,1,6
+pit_announcer,Meereen,2,5
 podrick_payne,The Crownlands,61,2
 podrick_payne,The North,57,5
 podrick_payne,The Riverlands,12,4
 podrick_payne,The Vale,9,4
 podrick_payne,The Wall,6,6
+polliver,The Riverlands,8,2
+prendahl_na_ghezn,Yunkai,3,3
+protestor,The Crownlands,1,2
+pyat_pree,Qarth,5,2
 pypar,The North,1,1
 pypar,The Wall,26,1
+qartheen_woman,Qarth,1,2
 qhono,The Crownlands,33,7
 qhono,The Dothraki Sea,3,6
 qhono,The North,7,8
 qhono,Vaes Dothrak,5,6
+qhorin_halfhand,North of the Wall,7,2
+qotho,Pentos,2,1
+qotho,The Dothraki Sea,1,1
+qotho,The Red Waste,2,1
+qotho,Vaes Dothrak,2,1
+quaithe,Qarth,3,2
+quent,The Westerlands,1,2
 qyburn,The Crownlands,77,3
 qyburn,The Riverlands,9,3
 rakharo,The Dothraki Sea,4,1
 rakharo,The Red Waste,8,1
 rakharo,Vaes Dothrak,3,1
+ralf_kenning,The North,1,4
 ramsay_snow,The North,81,3
 randyll_tarly,The Crownlands,8,7
 randyll_tarly,The Reach,4,6
 rast,North of the Wall,21,3
 rast,The North,1,1
 rast,The Wall,10,1
+rattleshirt,North of the Wall,7,2
+razdal_mo_eraz,Meereen,5,6
+razdal_mo_eraz,Yunkai,2,3
+red_keep_stableboy,The Crownlands,1,1
+red_priestess,Meereen,1,6
+red_priestess,Volantis,2,5
+reginald_lannister,The Riverlands,1,2
 renly_baratheon,The Crownlands,12,1
 renly_baratheon,The Stormlands,9,2
+rennick,The Westerlands,2,2
 rhaegal,Astapor,1,3
 rhaegal,Meereen,10,4
 rhaegal,North of the Wall,5,7
@@ -340,9 +678,16 @@ rhaegal,The Summer Sea,3,3
 rhaegal,The Wall,2,7
 rhaegal,Vaes Dothrak,2,1
 rhaegal,Yunkai,3,3
+rhaegar_targaryen,Dorne,1,7
+rhaego,Qarth,1,2
+rhaego,The Red Waste,1,1
+rhaego,Vaes Dothrak,1,1
 rickard_karstark,The Riverlands,7,1
 rickard_karstark,The Westerlands,3,2
+rickard_stark,The North,1,6
 rickon_stark,The North,34,1
+riddell,The Riverlands,3,6
+riverlands_traveller,The Riverlands,2,3
 robb_stark,North of the Wall,1,6
 robb_stark,The North,21,1
 robb_stark,The Riverlands,46,1
@@ -360,8 +705,15 @@ rodrik_cassel,The Vale,4,1
 roose_bolton,The North,18,4
 roose_bolton,The Riverlands,20,3
 roose_bolton,The Westerlands,8,2
+rorge,The Riverlands,3,2
 ros,The Crownlands,13,1
 ros,The North,3,1
+roslin_frey,The Riverlands,6,3
+royal_steward,The Crownlands,6,1
+ryger_rivers,The Riverlands,1,1
+sailor,Braavos,1,5
+salladhor_saan,Braavos,2,4
+salladhor_saan,The Crownlands,2,2
 samwell_tarly,North of the Wall,44,1
 samwell_tarly,The Crownlands,7,8
 samwell_tarly,The North,53,1
@@ -378,33 +730,83 @@ sansa_stark,The North,176,1
 sansa_stark,The Riverlands,3,1
 sansa_stark,The Vale,20,4
 sansa_stark,The Wall,12,6
+second_son,Meereen,2,5
+sellsword_1,Volantis,2,5
+sellsword_2,Volantis,2,5
 selyse_baratheon,The Crownlands,8,2
 selyse_baratheon,The North,3,5
 selyse_baratheon,The Wall,9,4
+septa_moelle,The Crownlands,2,5
+septa_mordane,The Crownlands,8,1
+septa_mordane,The North,1,1
+septa_scolera,The Crownlands,2,5
 septa_unella,The Crownlands,22,5
+septon,The Riverlands,1,3
+septon,The Westerlands,1,2
+ser_endrew_tarth,The Wall,1,4
 shae,The Crownlands,55,2
 shae,The Riverlands,4,1
+shagga,The Riverlands,1,1
+shagga,The Vale,1,1
+shagga,The Westerlands,2,1
 shaggydog,The North,12,1
 shireen_baratheon,The Crownlands,5,3
 shireen_baratheon,The North,3,5
 shireen_baratheon,The Wall,10,4
+silk_king,Qarth,2,2
+simpson,The North,1,5
+singing_lannister_soldier,The Crownlands,4,2
+sissy,North of the Wall,8,4
+slaver,Valyria,2,5
 smalljon_umber,The North,14,6
+soldier_tom,The Riverlands,1,2
+son_of_the_harpy,Meereen,4,5
+sorcerer,The Crownlands,1,3
+sparring_boy,The Vale,2,5
+spice_king,Qarth,3,2
 stannis_baratheon,Braavos,3,4
 stannis_baratheon,North of the Wall,2,4
 stannis_baratheon,The Crownlands,41,2
 stannis_baratheon,The North,19,5
 stannis_baratheon,The Stormlands,4,2
 stannis_baratheon,The Wall,21,4
+stark_messenger,The Westerlands,1,2
+stark_soldier,The Riverlands,1,2
+steelshanks_walton,The Riverlands,4,3
+steve,The Riverlands,2,6
+stevron_frey,The Riverlands,1,1
+stiv,The North,1,1
+stone_man,Valyria,1,5
+street_tough_1,Braavos,2,5
+street_tough_2,Braavos,2,5
+street_urchin,The Crownlands,1,1
+strong_sam_stone,The Vale,1,5
 styr,The Wall,15,4
 summer,North of the Wall,13,4
 summer,The North,23,1
 summer,The Wall,5,3
+syrio_forel,The Crownlands,5,1
 talisa_maegyr,The Riverlands,29,3
 talisa_maegyr,The Westerlands,12,2
+talla_tarly,The Reach,2,6
+tansy,The North,1,4
+teela,The North,7,8
+ternesio_terys,Braavos,2,5
+ternesio_terys,The Vale,1,4
+the_bear,The Riverlands,3,3
+the_crone,The Crownlands,1,5
+the_maiden,The Crownlands,3,5
+the_mother,The Crownlands,1,5
+the_mother_of_dragons,Volantis,2,5
 the_night_king,North of the Wall,39,4
 the_night_king,The North,22,8
 the_night_king,The Wall,1,7
+the_smith,The Crownlands,1,5
+the_stranger,The Crownlands,3,5
+the_tickler,The Riverlands,4,2
 the_waif,Braavos,22,5
+the_waif_s_disguise,Braavos,3,6
+the_warrior,The Crownlands,1,5
 thenn_warg,The Wall,10,4
 theon_greyjoy,Meereen,1,6
 theon_greyjoy,The Crownlands,24,7
@@ -415,22 +817,40 @@ theon_greyjoy,The Riverlands,6,1
 theon_greyjoy,The Summer Sea,1,6
 theon_greyjoy,The Sunset Sea,2,2
 theon_greyjoy,Volantis,2,6
+thin_man,Braavos,3,5
 thoros_of_myr,North of the Wall,19,7
 thoros_of_myr,The Riverlands,26,3
 thoros_of_myr,The Wall,2,7
 three_eyed_raven,Dorne,3,6
 three_eyed_raven,North of the Wall,22,4
 three_eyed_raven,The North,17,1
+timett,The Crownlands,1,2
+timett,The Riverlands,1,1
+timett,The Westerlands,2,1
+tobho_mott,The Crownlands,2,1
+todder,North of the Wall,4,5
+todder,The Wall,1,3
+tomard,The Crownlands,1,1
 tommen_baratheon,The Crownlands,87,1
 tommen_baratheon,The North,2,1
+tommen_s_manservant,The Crownlands,2,6
 tormund_giantsbane,North of the Wall,61,3
 tormund_giantsbane,The North,92,3
 tormund_giantsbane,The Wall,62,3
+torrhen_karstark,The Westerlands,3,2
+tortured_prisoner,The Riverlands,3,2
+tortured_slave,Astapor,1,3
 trystane_martell,Dorne,11,5
 trystane_martell,The Crownlands,1,6
+tully_bannerman,The Riverlands,3,6
+tycho_nestoris,Braavos,4,4
+tycho_nestoris,The Crownlands,2,7
 tyene_sand,Dorne,17,5
 tyene_sand,The Crownlands,5,7
 tyene_sand,The Narrow Sea,5,7
+tyrell_guard,The Crownlands,1,5
+tyrell_lady,The Crownlands,2,3
+tyrell_servant,The Crownlands,2,3
 tyrion_lannister,Meereen,53,5
 tyrion_lannister,Pentos,4,5
 tyrion_lannister,The Crownlands,348,2
@@ -446,6 +866,16 @@ tyrion_lannister,Volantis,11,5
 tywin_lannister,The Crownlands,75,2
 tywin_lannister,The Riverlands,14,1
 tywin_lannister,The Westerlands,2,1
+unsullied,Astapor,1,3
+unsullied_soldier,The Crownlands,1,8
+vala,Meereen,4,5
+valyrian_slave,Meereen,2,4
+vance_corbray,The Vale,2,4
+vardis_egen,The Vale,4,1
+varly,The Crownlands,1,1
+vayon_poole,The Crownlands,1,1
+village_woman,The North,1,8
+violet,The North,2,3
 viserion,Astapor,1,3
 viserion,Meereen,10,4
 viserion,North of the Wall,13,7
@@ -462,17 +892,50 @@ viserion,Yunkai,3,3
 viserys_targaryen,Pentos,4,1
 viserys_targaryen,The Dothraki Sea,2,1
 viserys_targaryen,Vaes Dothrak,6,1
+volantene_whore_1,Volantis,1,6
+volantene_whore_2,Volantis,1,6
+volantene_whore_3,Volantis,1,6
+volantene_whore_4,Volantis,1,6
+volantene_whore_5,Volantis,1,6
+walda_bolton,The North,6,4
 walder_frey,The Riverlands,25,1
+wallen,The North,1,1
+warlock,Astapor,1,3
+waymar_royce,North of the Wall,4,1
+waymar_royce,The Wall,1,1
+wendel_manderly,The Riverlands,3,3
+westerosi_trader,Braavos,1,6
+white_rat,Meereen,2,5
 white_walker,North of the Wall,37,1
 white_walker,The North,8,8
 white_walker,The Wall,1,7
+whore,Braavos,1,5
+whore_1,The Crownlands,2,4
+whore_2,The Crownlands,2,4
+whore_3,The Crownlands,1,5
+whore_4,The Crownlands,1,5
+whore_5,The Crownlands,1,5
+whore_6,The Crownlands,1,5
+wight_wildling_girl,North of the Wall,3,1
+wildling_rioter,The North,1,6
 will,North of the Wall,9,1
 will,The North,2,1
 will,The Wall,1,1
+willa,North of the Wall,3,5
+willa,The North,1,8
+willem_lannister,The Riverlands,2,3
+wine_merchant,Vaes Dothrak,3,1
+winter_town_man,The North,1,5
+winterfell_boy,The North,4,8
+winterfell_shepherd,The North,2,2
+wounded_lannister_soldier,The Westerlands,2,2
 wun_wun,North of the Wall,9,5
 wun_wun,The North,12,6
 wun_wun,The Wall,2,5
+wun_wun_wight,North of the Wall,1,7
+wun_wun_wight,The North,3,8
 wyllis,The North,12,6
+wyman_manderly,The North,2,6
 xaro_xhoan_daxos,Qarth,12,2
 yara_greyjoy,Meereen,1,6
 yara_greyjoy,The Crownlands,10,7
@@ -492,6 +955,14 @@ yoren,The Crownlands,8,1
 yoren,The North,1,1
 yoren,The Riverlands,6,1
 yoren,The Wall,1,1
+young_benjen_stark,The North,5,6
+young_braavosi,Braavos,1,5
+young_cersei_lannister,The Westerlands,2,5
+young_lyanna_stark,The North,3,6
+young_nan,The North,5,6
 young_ned_stark,Dorne,7,6
 young_ned_stark,North of the Wall,1,6
 young_ned_stark,The North,6,6
+young_rodrik_cassel,The North,4,6
+yunkai_i_whore,Yunkai,1,3
+zanrush,Meereen,2,6
